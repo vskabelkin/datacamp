@@ -1,0 +1,1116 @@
+Stock Symbol,Company Name,Last Sale,Market Capitalization,IPO Year,Sector,Industry,Last Update
+AAPL,Apple Inc.,141.05,7.40E+11,1980,Technology,Computer Manufacturing,4/26/17
+GOOGL,Alphabet Inc.,840.18,5.81E+11,NAN,Technology,"Computer Software: Programming, Data Processing",4/24/17
+GOOG,Alphabet Inc.,823.56,5.69E+11,2004,Technology,"Computer Software: Programming, Data Processing",4/23/17
+MSFT,Microsoft Corporation,64.95,5.02E+11,1986,Technology,Computer Software: Prepackaged Software,4/26/17
+AMZN,"Amazon.com, Inc.",884.67,4.22E+11,1997,Consumer Services,Catalog/Specialty Distribution,4/24/17
+FB,"Facebook, Inc.",139.39,4.03E+11,2012,Technology,"Computer Software: Programming, Data Processing",4/26/17
+CMCSA,Comcast Corporation,37.14,1.76E+11,NAN,Consumer Services,Television Services,4/26/17
+INTC,Intel Corporation,35.25,1.66E+11,NAN,Technology,Semiconductors,4/23/17
+CSCO,"Cisco Systems, Inc.",32.42,1.62E+11,1990,Technology,Computer Communications Equipment,4/23/17
+AMGN,Amgen Inc.,161.61,1.19E+11,1983,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+KHC,The Kraft Heinz Company,91.5,1.11E+11,NAN,Consumer Non-Durables,Packaged Foods,4/26/17
+CHTR,"Charter Communications, Inc.",330,1.01E+11,NAN,Consumer Services,Television Services,4/26/17
+CELG,Celgene Corporation,124.45,96817927316,1987,Health Care,Major Pharmaceuticals,4/26/17
+WBA,"Walgreens Boots Alliance, Inc.",82.48,89156829737,NAN,Health Care,Medical/Nursing Services,4/25/17
+GILD,"Gilead Sciences, Inc.",66.51,86944305401,1992,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+PCLN,The Priceline Group Inc. ,1738.77,85496045967,1999,Miscellaneous,Business Services,4/25/17
+AVGO,Broadcom Limited,211.32,84815916315,2009,Technology,Semiconductors,4/26/17
+SBUX,Starbucks Corporation,57.51,83815074000,1992,Consumer Services,Restaurants,4/23/17
+QCOM,QUALCOMM Incorporated,52.79,77972996343,1991,Technology,Radio And Television Broadcasting And Communications Equipment,4/25/17
+TXN,Texas Instruments Incorporated,77.84,77811956817,NAN,Technology,Semiconductors,4/26/17
+COST,Costco Wholesale Corporation,168.84,74110834909,NAN,Consumer Services,Department/Specialty Retail Stores,4/26/17
+MDLZ,"Mondelez International, Inc.",44.04,67139195400,NAN,Consumer Non-Durables,Packaged Foods,4/24/17
+ADBE,Adobe Systems Incorporated,129.05,63840776384,1986,Technology,Computer Software: Prepackaged Software,4/23/17
+NFLX,"Netflix, Inc.",142.92,61514424872,2002,Consumer Services,Consumer Electronics/Video Chains,4/24/17
+BIIB,Biogen Inc.,271.88,58713014807,NAN,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+NVDA,NVIDIA Corporation,95.49,56772335647,1999,Technology,Semiconductors,4/23/17
+FOX,"Twenty-First Century Fox, Inc.",29.86,55265925247,NAN,Consumer Services,Television Services,4/23/17
+TMUS,"T-Mobile US, Inc.",64.04,52930713577,NAN,Public Utilities,Telecommunications Equipment,4/24/17
+PYPL,"PayPal Holdings, Inc.",42.55,51382666607,NAN,Miscellaneous,Business Services,4/26/17
+TSLA,"Tesla, Inc. ",304,49614832848,2010,Capital Goods,Auto Manufacturing,4/26/17
+AMOV,"America Movil, S.A.B. de C.V.",14.64,47992848000,NAN,Public Utilities,Telecommunications Equipment,4/25/17
+BIDU,"Baidu, Inc.",172.61,47500891120,2005,Technology,"Computer Software: Programming, Data Processing",4/23/17
+QQQ,"PowerShares QQQ Trust, Series 1",130.4,46376760000,NAN,NAN,NAN,4/25/17
+ADP,"Automatic Data Processing, Inc.",101.26,45455875453,NAN,Technology,EDP Services,4/25/17
+YHOO,Yahoo! Inc.,46.9,44859250477,1996,Technology,EDP Services,4/25/17
+CSX,CSX Corporation,46.42,43005669415,NAN,Transportation,Railroads,4/23/17
+AMAT,"Applied Materials, Inc.",37.52,40515259233,1972,Technology,Semiconductors,4/26/17
+ESRX,Express Scripts Holding Company,66.47,39902792348,1992,Health Care,Medical/Nursing Services,4/24/17
+CME,CME Group Inc.,115.87,39372418940,2002,Finance,Investment Bankers/Brokers/Service,4/26/17
+REGN,"Regeneron Pharmaceuticals, Inc.",370.37,39289129229,1991,Health Care,Major Pharmaceuticals,4/24/17
+FOXA,"Twenty-First Century Fox, Inc.",30.43,37153202952,NAN,Consumer Services,Television Services,4/24/17
+EBAY,eBay Inc.,34.33,37051837606,1998,Miscellaneous,Business Services,4/24/17
+ATVI,"Activision Blizzard, Inc",48.42,36404429706,NAN,Technology,Computer Software: Prepackaged Software,4/24/17
+NXPI,NXP Semiconductors N.V.,103.23,35717875444,2010,Technology,Semiconductors,4/24/17
+CTSH,Cognizant Technology Solutions Corporation,58.35,35513977294,1998,Technology,EDP Services,4/24/17
+MAR,Marriott International,91.55,35010517493,NAN,Consumer Services,Hotels/Resorts,4/23/17
+LBTYB,Liberty Global plc,35.5,31770429711,NAN,Consumer Services,Television Services,4/23/17
+EQIX,"Equinix, Inc.",399.11,31013547378,2000,Consumer Services,Real Estate Investment Trusts,4/24/17
+LBTYA,Liberty Global plc,34.26,30660702025,NAN,Consumer Services,Television Services,4/25/17
+INTU,Intuit Inc.,117.89,30154531964,1993,Technology,Computer Software: Prepackaged Software,4/23/17
+LBTYK,Liberty Global plc,33.68,30141635850,NAN,Consumer Services,Television Services,4/23/17
+JD,"JD.com, Inc.",32.47,29780465124,2014,Consumer Services,Other Specialty Stores,4/26/17
+MU,"Micron Technology, Inc.",26.74,29582652469,NAN,Technology,Semiconductors,4/23/17
+DISH,DISH Network Corporation,62.38,29030715676,1995,Consumer Services,Television Services,4/23/17
+INCY,Incyte Corporation,140.84,28706078093,NAN,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/26/17
+VRTX,Vertex Pharmaceuticals Incorporated,113.8,28272258853,1991,Health Care,Major Pharmaceuticals,4/24/17
+ISRG,"Intuitive Surgical, Inc.",764.79,28087288262,2000,Health Care,Industrial Specialties,4/23/17
+ADI,"Analog Devices, Inc.",76.51,27933090834,NAN,Technology,Semiconductors,4/26/17
+EA,Electronic Arts Inc.,89.02,27441708194,NAN,Technology,Computer Software: Prepackaged Software,4/25/17
+ALXN,"Alexion Pharmaceuticals, Inc.",118.35,26646395748,1996,Health Care,Major Pharmaceuticals,4/24/17
+MNST,Monster Beverage Corporation,44.9,25441208501,NAN,Consumer Non-Durables,Beverages (Production/Distribution),4/26/17
+ILMN,"Illumina, Inc.",173.68,25409384000,2000,Capital Goods,Biotechnology: Laboratory Analytical Instruments,4/26/17
+ROST,"Ross Stores, Inc.",63.2,24774373330,1985,Consumer Services,Clothing/Shoe/Accessory Stores,4/25/17
+FISV,"Fiserv, Inc.",115.19,24715621401,1986,Technology,EDP Services,4/25/17
+WDC,Western Digital Corporation,83.5,24053881156,NAN,Technology,Electronic Components,4/25/17
+SIRI,Sirius XM Holdings Inc.,5.1,23918069607,NAN,Consumer Services,Broadcasting,4/26/17
+ORLY,"O&#39;Reilly Automotive, Inc.",251.99,23093896203,1993,Consumer Services,Other Specialty Stores,4/25/17
+PCAR,PACCAR Inc.,64.63,22701604187,NAN,Capital Goods,Auto Manufacturing,4/24/17
+AAL,"American Airlines Group, Inc.",43.35,21855093110,NAN,Transportation,Air Freight/Delivery Services,4/23/17
+HBANO,Huntington Bancshares Incorporated,26.31,20960889616,NAN,Finance,Major Banks,4/26/17
+PAYX,"Paychex, Inc.",57.89,20796889008,1983,Consumer Services,Diversified Commercial Services,4/24/17
+LRCX,Lam Research Corporation,125.17,20383168585,1984,Technology,Industrial Machinery/Components,4/24/17
+CTRP,"Ctrip.com International, Ltd.",48.29,20257996121,2003,Miscellaneous,Business Services,4/23/17
+MYL,Mylan N.V.,37.67,20172171538,NAN,Health Care,Major Pharmaceuticals,4/24/17
+NTES,"NetEase, Inc.",265.68,19935605395,NAN,Miscellaneous,Business Services,4/26/17
+NTRS,Northern Trust Corporation,85.03,19513103853,NAN,Finance,Major Banks,4/24/17
+AMTD,TD Ameritrade Holding Corporation,36.84,19434672258,1997,Finance,Investment Bankers/Brokers/Service,4/24/17
+CERN,Cerner Corporation,58.61,19324859954,1986,Technology,EDP Services,4/24/17
+EXPE,"Expedia, Inc.",128.13,19194948754,NAN,Consumer Services,Transportation Services,4/24/17
+ADSK,"Autodesk, Inc.",84.91,18752311346,NAN,Technology,Computer Software: Prepackaged Software,4/25/17
+SYMC,Symantec Corporation,30.04,18589786968,1989,Technology,Computer Software: Prepackaged Software,4/23/17
+VCSH,Vanguard Short-Term Corporate Bond ETF,79.95,18307296784,NAN,NAN,NAN,4/26/17
+VIA,Viacom Inc.,45.75,18158000327,NAN,Consumer Services,Television Services,4/25/17
+CHKP,Check Point Software Technologies Ltd.,103.53,18107554676,1996,Technology,Computer Software: Prepackaged Software,4/25/17
+DLTR,"Dollar Tree, Inc.",76.46,18067340187,1995,Consumer Services,Department/Specialty Retail Stores,4/25/17
+SWKS,"Skyworks Solutions, Inc.",97.47,17982395472,NAN,Technology,Semiconductors,4/23/17
+FITB,Fifth Third Bancorp,23.93,17962371945,NAN,Finance,Major Banks,4/24/17
+ULTA,"Ulta Beauty, Inc.",282.68,17563548670,2007,Consumer Services,Other Specialty Stores,4/26/17
+INFO,IHS Markit Ltd.,42.21,17174188305,2014,Technology,"Computer Software: Programming, Data Processing",4/26/17
+WLTW,Willis Towers Watson Public Limited Company,126.54,17149690469,NAN,Finance,Specialty Insurers,4/24/17
+TROW,"T. Rowe Price Group, Inc.",70.26,16986912524,1986,Finance,Investment Bankers/Brokers/Service,4/23/17
+LBRDK,Liberty Broadband Corporation,86.55,15734557959,NAN,Consumer Services,Television Services,4/24/17
+MCHP,Microchip Technology Incorporated,72.24,15635059600,1993,Technology,Semiconductors,4/26/17
+LBRDA,Liberty Broadband Corporation,85.54,15550942667,NAN,Consumer Services,Television Services,4/26/17
+BMRN,BioMarin Pharmaceutical Inc.,89.91,15542426565,1999,Health Care,Major Pharmaceuticals,4/24/17
+VIAB,Viacom Inc.,43.77,15208329102,NAN,Consumer Services,Television Services,4/25/17
+SBAC,SBA Communications Corporation,123.8,15010047559,1999,Consumer Services,Real Estate Investment Trusts,4/26/17
+KLAC,KLA-Tencor Corporation,95.33,14941006076,1980,Capital Goods,Electronic Components,4/24/17
+STX,Seagate Technology PLC,48.17,14218670021,2002,Technology,Electronic Components,4/26/17
+XRAY,DENTSPLY SIRONA Inc.,61.8,14194274552,1987,Health Care,Medical/Dental Instruments,4/26/17
+SHPG,Shire plc,171.14,14068557710,NAN,Health Care,Major Pharmaceuticals,4/23/17
+IBKR,"Interactive Brokers Group, Inc.",33.98,13912410230,NAN,Finance,Investment Bankers/Brokers/Service,4/23/17
+XLNX,"Xilinx, Inc.",55.68,13860689775,1990,Technology,Semiconductors,4/23/17
+HBAN,Huntington Bancshares Incorporated,12.59,13725359490,NAN,Finance,Major Banks,4/24/17
+CPRT,"Copart, Inc.",29.65,13620922869,1994,Consumer Durables,Automotive Aftermarket,4/23/17
+IDXX,"IDEXX Laboratories, Inc.",153.6,13504939162,1991,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/24/17
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,87.13,13410311435,NAN,NAN,NAN,4/25/17
+HSIC,"Henry Schein, Inc.",167.85,13381655272,1995,Health Care,Medical Specialities,4/25/17
+CA,CA Inc.,31.65,13228875961,NAN,Technology,Computer Software: Prepackaged Software,4/26/17
+FAST,Fastenal Company,45.54,13172942479,1987,Consumer Services,RETAIL: Building Materials,4/23/17
+VRSK,"Verisk Analytics, Inc.",79.11,13162002354,2009,Technology,EDP Services,4/25/17
+LSXMK,Liberty Media Corporation,38.91,13051335428,NAN,Consumer Services,Broadcasting,4/26/17
+CTXS,"Citrix Systems, Inc.",82.96,12970995934,1995,Technology,Computer Software: Prepackaged Software,4/23/17
+CTAS,Cintas Corporation,121.68,12815648249,1983,Consumer Non-Durables,Apparel,4/24/17
+MXIM,"Maxim Integrated Products, Inc.",43.77,12373402097,1988,Technology,Semiconductors,4/23/17
+HAS,"Hasbro, Inc.",95.5,11938144243,NAN,Consumer Non-Durables,Recreational Products/Toys,4/25/17
+HOLX,"Hologic, Inc.",42.42,11847746883,1990,Health Care,Medical Electronics,4/24/17
+CINF,Cincinnati Financial Corporation,70.46,11612894846,NAN,Finance,Property-Casualty Insurers,4/24/17
+WYNN,"Wynn Resorts, Limited",113.47,11600554048,2002,Consumer Services,Hotels/Resorts,4/24/17
+AMD,"Advanced Micro Devices, Inc.",12.31,11588618403,NAN,Technology,Semiconductors,4/26/17
+ACGL,Arch Capital Group Ltd.,93.07,11448210022,NAN,Finance,Property-Casualty Insurers,4/24/17
+NDAQ,"Nasdaq, Inc.",68.11,11316043593,NAN,Finance,Investment Bankers/Brokers/Service,4/25/17
+VOD,Vodafone Group Plc,25.8,11230539766,NAN,Public Utilities,Telecommunications Equipment,4/23/17
+DISCA,"Discovery Communications, Inc.",28.29,11034282183,NAN,Consumer Services,Television Services,4/26/17
+DISCB,"Discovery Communications, Inc.",28,10921170064,NAN,Consumer Services,Television Services,4/26/17
+NCLH,Norwegian Cruise Line Holdings Ltd.,48.03,10918378300,2013,Consumer Services,Marine Transportation,4/25/17
+WFM,"Whole Foods Market, Inc.",33.96,10818451609,NAN,Consumer Services,Food Chains,4/23/17
+DISCK,"Discovery Communications, Inc.",27.73,10815858781,NAN,Consumer Services,Television Services,4/23/17
+NTAP,"NetApp, Inc.",39.49,10699867943,1995,Technology,Electronic Components,4/24/17
+SNPS,"Synopsys, Inc.",70.93,10656450142,1992,Technology,Computer Software: Prepackaged Software,4/25/17
+CHRW,"C.H. Robinson Worldwide, Inc.",74.46,10557013632,1997,Transportation,Oil Refining/Marketing,4/25/17
+AKAM,"Akamai Technologies, Inc.",58.8,10208224723,1999,Miscellaneous,Business Services,4/26/17
+EXPD,"Expeditors International of Washington, Inc.",55.35,10001538378,NAN,Transportation,Oil Refining/Marketing,4/24/17
+JBHT,"J.B. Hunt Transport Services, Inc.",89.14,9922249436,NAN,Transportation,Trucking Freight/Courier Services,4/26/17
+QVCB,Liberty Interactive Corporation,21.43,9741423078,NAN,Consumer Services,Catalog/Specialty Distribution,4/26/17
+SNI,"Scripps Networks Interactive, Inc",74.28,9634760899,NAN,Consumer Services,Television Services,4/26/17
+QVCA,Liberty Interactive Corporation,21.02,9555049608,NAN,Consumer Services,Catalog/Specialty Distribution,4/24/17
+MELI,"MercadoLibre, Inc.",215.46,9514145647,2007,Miscellaneous,Business Services,4/25/17
+FANG,"Diamondback Energy, Inc.",105.04,9468718827,2012,Energy,Oil & Gas Production,4/24/17
+SGEN,"Seattle Genetics, Inc.",66.01,9414812165,2001,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+CDK,"CDK Global, Inc.",64.22,9312371889,NAN,Miscellaneous,Business Services,4/24/17
+SIVB,SVB Financial Group,176.32,9232395549,NAN,Finance,Major Banks,4/23/17
+GRMN,Garmin Ltd.,48.69,9175456092,2000,Capital Goods,Industrial Machinery/Components,4/23/17
+CBOE,"CBOE Holdings, Inc.",81.29,9155171794,2010,Finance,Investment Bankers/Brokers/Service,4/25/17
+JAZZ,Jazz Pharmaceuticals plc,153.11,9147133142,2007,Health Care,Major Pharmaceuticals,4/23/17
+ALGN,"Align Technology, Inc.",113.73,9135186310,2001,Health Care,Industrial Specialties,4/25/17
+ETFC,E*TRADE Financial Corporation,33.22,9125557420,NAN,Finance,Savings Institutions,4/24/17
+CDW,CDW Corporation,56.78,9048863313,2013,Consumer Services,Catalog/Specialty Distribution,4/26/17
+ANSS,"ANSYS, Inc.",105.37,9015704820,1996,Technology,Computer Software: Prepackaged Software,4/23/17
+VRSN,"VeriSign, Inc.",87.68,8972167264,1998,Technology,EDP Services,4/24/17
+DOX,Amdocs Limited,60.44,8866064480,NAN,Technology,EDP Services,4/24/17
+AGNCB,AGNC Investment Corp.,25.5188,8840990378,NAN,Consumer Services,Real Estate Investment Trusts,4/24/17
+RYAAY,Ryanair Holdings plc,86.02,8806570097,1997,Transportation,Air Freight/Delivery Services,4/24/17
+OTEX,Open Text Corporation,33.31,8775213048,1996,Technology,EDP Services,4/24/17
+ASML,ASML Holding N.V.,128.38,8739319194,1995,Technology,Industrial Machinery/Components,4/26/17
+ALKS,Alkermes plc,57.16,8719612699,1991,Health Care,Major Pharmaceuticals,4/24/17
+FFIV,"F5 Networks, Inc.",134.43,8709403386,1999,Technology,Computer Communications Equipment,4/26/17
+CDNS,"Cadence Design Systems, Inc.",31.11,8693933091,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+QRVO,"Qorvo, Inc.",68.48,8659472473,NAN,Technology,Semiconductors,4/23/17
+LKQ,LKQ Corporation,27.94,8611521344,NAN,Consumer Services,Motor Vehicles,4/23/17
+GT,The Goodyear Tire & Rubber Company,34.14,8600908499,NAN,Consumer Durables,Automotive Aftermarket,4/24/17
+MAT,"Mattel, Inc.",25.01,8566270563,NAN,Consumer Non-Durables,Recreational Products/Toys,4/23/17
+FLEX,Flex Ltd.,15.93,8526069925,1994,Technology,Electrical Products,4/26/17
+IBB,iShares Nasdaq Biotechnology Index Fund,290.59,8281815000,NAN,NAN,NAN,4/24/17
+TSCO,Tractor Supply Company,63.54,8254525052,1994,Consumer Services,RETAIL: Building Materials,4/26/17
+SPLK,Splunk Inc.,59.49,8224284344,2012,Technology,Computer Software: Prepackaged Software,4/23/17
+SEIC,SEI Investments Company,51.33,8168250642,1981,Finance,Investment Bankers/Brokers/Service,4/26/17
+ZION,Zions Bancorporation,39.45,7985575673,NAN,Finance,Major Banks,4/23/17
+HDS,"HD Supply Holdings, Inc.",39.55,7978373249,2013,Consumer Services,Office Equipment/Supplies/Services,4/23/17
+STLD,"Steel Dynamics, Inc.",32.91,7976835456,1996,Basic Industries,Steel/Iron Ore,4/25/17
+TSRO,"TESARO, Inc.",146.5,7881956668,2012,Health Care,Major Pharmaceuticals,4/25/17
+COMM,"CommScope Holding Company, Inc.",39.98,7783626440,2013,Technology,Radio And Television Broadcasting And Communications Equipment,4/26/17
+MIDD,The Middleby Corporation,134.18,7710174946,NAN,Technology,Industrial Machinery/Components,4/24/17
+TRMB,Trimble Inc.,30.46,7698847242,1990,Capital Goods,Industrial Machinery/Components,4/24/17
+IEP,Icahn Enterprises L.P.,48,7483788144,NAN,Capital Goods,Auto Parts:O.E.M.,4/26/17
+SBNY,Signature Bank,136.52,7455380408,2004,Finance,Major Banks,4/25/17
+ARCC,Ares Capital Corporation,17.465,7439053994,2004,NAN,NAN,4/23/17
+WOOF,VCA Inc. ,91.43,7427408669,2001,Consumer Non-Durables,Farming/Seeds/Milling,4/24/17
+NWS,News Corporation,12.7,7384936106,NAN,Consumer Services,Newspapers/Magazines,4/23/17
+MRVL,Marvell Technology Group Ltd.,14.68,7375232000,2000,Technology,Semiconductors,4/24/17
+VXUS,Vanguard Total International Stock ETF,49.27,7362211186,NAN,NAN,NAN,4/23/17
+YNDX,Yandex N.V.,22.75,7356760548,2011,Technology,"Computer Software: Programming, Data Processing",4/26/17
+SSNC,"SS&C Technologies Holdings, Inc.",35.64,7267470368,2010,Technology,Computer Software: Prepackaged Software,4/23/17
+SCZ,iShares MSCI EAFE Small-Cap ETF,53.97,7242774000,NAN,NAN,NAN,4/24/17
+JKHY,"Jack Henry & Associates, Inc.",93.03,7221889037,1985,Technology,EDP Services,4/23/17
+NWSA,News Corporation,12.33,7169784425,NAN,Consumer Services,Newspapers/Magazines,4/23/17
+PNRA,Panera Bread Company,315.44,7167903679,NAN,Consumer Services,Restaurants,4/24/17
+EWBC,"East West Bancorp, Inc.",49.43,7126207236,NAN,Finance,Major Banks,4/26/17
+GLPI,"Gaming and Leisure Properties, Inc.",34.15,7094904794,NAN,Consumer Services,Real Estate Investment Trusts,4/25/17
+UHAL,Amerco,359.99,7058607602,NAN,Consumer Services,Rental/Leasing Companies,4/26/17
+LAMR,Lamar Advertising Company,72.11,7025990474,1996,Consumer Services,Real Estate Investment Trusts,4/24/17
+LULU,lululemon athletica inc.,51.22,7019891641,2007,Consumer Non-Durables,Apparel,4/23/17
+SRCL,"Stericycle, Inc.",81.92,6983447020,1996,Basic Industries,Environmental Services,4/24/17
+TEAM,Atlassian Corporation Plc,31.23,6947660650,2015,Technology,Computer Software: Prepackaged Software,4/26/17
+CGNX,Cognex Corporation,79.83,6917217531,1989,Capital Goods,Industrial Machinery/Components,4/23/17
+JBLU,JetBlue Airways Corporation,20.73,6914854068,2002,Transportation,Air Freight/Delivery Services,4/25/17
+NDSN,Nordson Corporation,118.95,6845012364,NAN,Capital Goods,Industrial Machinery/Components,4/23/17
+BNDX,Vanguard Total International Bond ETF,54.48,6796575420,NAN,NAN,NAN,4/25/17
+AGNC,AGNC Investment Corp.,20.27,6710303981,2008,Consumer Services,Real Estate Investment Trusts,4/24/17
+MKTX,"MarketAxess Holdings, Inc.",178.07,6693000454,2004,Finance,Investment Bankers/Brokers/Service,4/26/17
+CSGP,"CoStar Group, Inc.",204.52,6667289826,1998,Miscellaneous,Business Services,4/25/17
+ODFL,"Old Dominion Freight Line, Inc.",80.6,6646778622,1991,Transportation,Trucking Freight/Courier Services,4/23/17
+FWONK,Liberty Media Corporation,32.87,6633894136,NAN,Consumer Services,Broadcasting,4/23/17
+FTNT,"Fortinet, Inc.",37.32,6542943258,2009,Technology,Computer peripheral equipment,4/23/17
+ACWI,iShares MSCI ACWI Index Fund,62.59,6459288000,NAN,NAN,NAN,4/25/17
+DXCM,"DexCom, Inc.",76.06,6451031866,2005,Health Care,Medical/Dental Instruments,4/26/17
+QGEN,Qiagen N.V.,28.09,6345030633,NAN,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+Z,"Zillow Group, Inc.",34.62,6326024561,NAN,Miscellaneous,Business Services,4/25/17
+ZG,"Zillow Group, Inc.",34.41,6287651795,2011,Miscellaneous,Business Services,4/26/17
+ERIE,Erie Indemnity Company,120.16,6283150539,NAN,Finance,Specialty Insurers,4/23/17
+IPGP,IPG Photonics Corporation,117.17,6259509170,2006,Technology,Semiconductors,4/25/17
+ULTI,"The Ultimate Software Group, Inc.",201.2,6220423743,1998,Technology,Computer Software: Prepackaged Software,4/24/17
+SPLS,"Staples, Inc.",9.52,6212083896,1989,Consumer Services,Other Specialty Stores,4/26/17
+EXEL,"Exelixis, Inc.",21.29,6192550191,2000,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/23/17
+PACW,PacWest Bancorp,50.08,6158080740,NAN,Finance,Major Banks,4/26/17
+BIVV,Bioverativ Inc.,56.83,6136274261,NAN,Health Care,Major Pharmaceuticals,4/23/17
+TLT,iShares 20+ Year Treasury Bond ETF,123.47,6111765000,NAN,NAN,NAN,4/26/17
+PTC,PTC Inc.,51.54,5964285492,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+TRIP,"TripAdvisor, Inc.",41.36,5962452554,NAN,Technology,"Computer Software: Programming, Data Processing",4/24/17
+ON,ON Semiconductor Corporation,14.11,5920709206,NAN,Technology,Semiconductors,4/26/17
+SABR,Sabre Corporation,21.08,5867295434,2014,Technology,"Computer Software: Programming, Data Processing",4/24/17
+TTWO,"Take-Two Interactive Software, Inc.",57.53,5834128691,1997,Technology,Computer Software: Prepackaged Software,4/24/17
+IAC,IAC/InterActiveCorp,74.76,5811590160,NAN,Consumer Services,Other Specialty Stores,4/23/17
+GNTX,Gentex Corporation,19.95,5732926443,NAN,Capital Goods,Auto Parts:O.E.M.,4/25/17
+OZRK,Bank of the Ozarks,46.81,5690738744,1997,Finance,Major Banks,4/24/17
+PPC,Pilgrim&#39;s Pride Corporation,22.82,5676532233,NAN,Consumer Non-Durables,Meat/Poultry/Fish,4/26/17
+BBBY,Bed Bath & Beyond Inc.,38.39,5615458860,1992,Consumer Services,Home Furnishings,4/25/17
+PBCT,"People&#39;s United Financial, Inc.",17.29,5479778521,NAN,Finance,Savings Institutions,4/23/17
+UTHR,United Therapeutics Corporation,121.53,5464185192,1999,Health Care,Major Pharmaceuticals,4/25/17
+ABMD,"ABIOMED, Inc.",124.61,5425437157,NAN,Health Care,Medical/Dental Instruments,4/25/17
+MSCC,Microsemi Corporation,46.81,5397479945,NAN,Technology,Semiconductors,4/26/17
+LECO,"Lincoln Electric Holdings, Inc.",81.9,5385924671,NAN,Technology,Industrial Machinery/Components,4/25/17
+CBSH,"Commerce Bancshares, Inc.",52.91,5385169535,NAN,Finance,Major Banks,4/24/17
+LOGM,"LogMein, Inc.",102.15,5370231537,2009,NAN,NAN,4/25/17
+CG,The Carlyle Group L.P.,16.15,5289123595,2012,Finance,Investment Managers,4/23/17
+HPT,Hospitality Properties Trust,32.12,5276294552,NAN,Consumer Services,Real Estate Investment Trusts,4/26/17
+SATS,EchoStar Corporation,55.41,5256054352,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/26/17
+IONS,"Ionis Pharmaceuticals, Inc.",42.27,5236431229,NAN,Health Care,Major Pharmaceuticals,4/25/17
+VEON,VEON Ltd.,3.89,5212706178,NAN,Public Utilities,Telecommunications Equipment,4/24/17
+SNH,Senior Housing Properties Trust,21.74,5164216973,NAN,Consumer Services,Real Estate Investment Trusts,4/23/17
+BRCD,"Brocade Communications Systems, Inc.",12.41,5059579611,1999,Technology,Computer Communications Equipment,4/25/17
+LOGI,Logitech International S.A.,31.01,5014996863,1997,Technology,Computer peripheral equipment,4/25/17
+ARRS,ARRIS International plc,25.97,4961524247,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/23/17
+SLM,SLM Corporation,11.555,4958263303,NAN,Finance,Finance: Consumer Services,4/24/17
+DNKN,"Dunkin&#39; Brands Group, Inc.",53.5,4925547906,2011,Consumer Services,Restaurants,4/25/17
+IXUS,iShares Core MSCI Total International Stock ETF,54.48,4908648000,NAN,NAN,NAN,4/26/17
+SINA,Sina Corporation,69.05,4894344650,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+BOKF,BOK Financial Corporation,74.75,4888965071,NAN,Finance,Major Banks,4/26/17
+ESLT,Elbit Systems Ltd.,114.18,4880953395,NAN,Capital Goods,Military/Government/Technical,4/25/17
+RGLD,"Royal Gold, Inc.",74.53,4869271471,NAN,Basic Industries,Precious Metals,4/24/17
+POOL,Pool Corporation,116.43,4807108864,1995,Consumer Durables,Industrial Specialties,4/25/17
+NUAN,"Nuance Communications, Inc.",16.38,4775805085,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+FLIR,"FLIR Systems, Inc.",34.97,4768869146,1993,Capital Goods,Industrial Machinery/Components,4/23/17
+COHR,"Coherent, Inc.",192.79,4733732500,NAN,Capital Goods,Biotechnology: Laboratory Analytical Instruments,4/26/17
+MSG,MSG Networks Inc.,197.08,4722561033,2015,Consumer Services,Services-Misc. Amusement & Recreation,4/26/17
+PVTB,"PrivateBancorp, Inc.",58.65,4693563668,1999,Finance,Major Banks,4/24/17
+MASI,Masimo Corporation,92.56,4666788194,2007,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/25/17
+NBIX,"Neurocrine Biosciences, Inc.",53.39,4651034613,1996,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+ZBRA,Zebra Technologies Corporation,87.33,4617769981,1991,Technology,Industrial Machinery/Components,4/24/17
+CONE,CyrusOne Inc,52.42,4604945454,2013,Consumer Services,Real Estate Investment Trusts,4/25/17
+BBRY,BlackBerry Limited,8.64,4583602253,NAN,Public Utilities,Telecommunications Equipment,4/25/17
+KITE,"Kite Pharma, Inc.",82.25,4577429147,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+CAVM,"Cavium, Inc.",67.26,4562314472,2007,Technology,Semiconductors,4/23/17
+TFSL,TFS Financial Corporation,15.96,4524154068,NAN,Finance,Savings Institutions,4/23/17
+CDEV,"Centennial Resource Development, Inc.",19.79,4520552440,2016,Energy,Oil & Gas Production,4/25/17
+BUFF,"Blue Buffalo Pet Products, Inc.",22.85,4491159297,2015,Consumer Non-Durables,Packaged Foods,4/24/17
+AZPN,"Aspen Technology, Inc.",58.5,4450222589,1994,Technology,EDP Services,4/24/17
+EEFT,"Euronet Worldwide, Inc.",84.58,4428576744,1997,Finance,Investment Bankers/Brokers/Service,4/23/17
+MTCH,"Match Group, Inc.",17.22,4407779654,2015,Technology,"Computer Software: Programming, Data Processing",4/26/17
+CASY,"Caseys General Stores, Inc.",112.01,4390587134,1983,Consumer Durables,Automotive Aftermarket,4/25/17
+ATHN,"athenahealth, Inc.",110.17,4353755679,2007,Miscellaneous,Business Services,4/24/17
+LVNTA,Liberty Interactive Corporation,50.87,4345444050,NAN,Consumer Services,Catalog/Specialty Distribution,4/23/17
+MIK,"The Michaels Companies, Inc.",22.99,4342681865,2014,Consumer Services,Recreational Products/Toys,4/26/17
+CY,Cypress Semiconductor Corporation,13.14,4308889916,1986,Technology,Semiconductors,4/23/17
+ALNY,"Alnylam Pharmaceuticals, Inc.",49.85,4289720016,2004,Health Care,Major Pharmaceuticals,4/24/17
+ISBC,"Investors Bancorp, Inc.",13.83,4285620914,NAN,Finance,Major Banks,4/26/17
+NAVI,Navient Corporation,14.68,4272005191,NAN,Finance,Investment Bankers/Brokers/Service,4/25/17
+OPK,"Opko Health, Inc.",7.62,4253651526,NAN,Health Care,Major Pharmaceuticals,4/25/17
+ICLR,ICON plc,77.58,4230502800,1998,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/24/17
+PDCO,"Patterson Companies, Inc.",43.55,4230185700,1992,Health Care,Medical Specialities,4/26/17
+PDCE,"PDC Energy, Inc.",63.43,4171367070,NAN,Energy,Oil & Gas Production,4/26/17
+WWD,"Woodward, Inc.",67.73,4161320770,NAN,Energy,Industrial Machinery/Components,4/23/17
+UNIT,Uniti Group Inc.,26.43,4121263995,NAN,Consumer Services,Real Estate Investment Trusts,4/23/17
+NATI,National Instruments Corporation,31.79,4119785980,1995,Technology,Computer Software: Prepackaged Software,4/25/17
+MEOH,Methanex Corporation,45.75,4110309839,NAN,Basic Industries,Major Chemicals,4/26/17
+ACAD,ACADIA Pharmaceuticals Inc.,33.48,4064727318,1985,Health Care,Major Pharmaceuticals,4/23/17
+AKRX,"Akorn, Inc.",32.42,4034663910,NAN,Health Care,Major Pharmaceuticals,4/25/17
+COLM,Columbia Sportswear Company,58.06,4034301132,1998,Consumer Non-Durables,Apparel,4/26/17
+LILAK,Liberty Global plc,23.25,4016138807,NAN,Consumer Services,Television Services,4/26/17
+BPOP,"Popular, Inc.",38.54,4000650712,NAN,Finance,Major Banks,4/23/17
+FIZZ,National Beverage Corp.,85.6,3986267880,NAN,Consumer Non-Durables,Beverages (Production/Distribution),4/23/17
+UBNT,"Ubiquiti Networks, Inc.",48.45,3984123927,2011,Technology,Radio And Television Broadcasting And Communications Equipment,4/25/17
+SBGI,"Sinclair Broadcast Group, Inc.",38.85,3981620455,1995,Consumer Services,Broadcasting,4/26/17
+FHB,"First Hawaiian, Inc.",28.44,3968705731,2016,Finance,Major Banks,4/23/17
+CRUS,"Cirrus Logic, Inc.",61.64,3959257521,1989,Technology,Semiconductors,4/26/17
+PTEN,"Patterson-UTI Energy, Inc.",23.8,3958648383,1993,Energy,Oil & Gas Production,4/23/17
+AMCX,AMC Networks Inc.,58.09,3934966294,NAN,Consumer Services,Television Services,4/26/17
+PRAH,"PRA Health Sciences, Inc.",63.75,3930515239,2014,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/23/17
+JCOM,"j2 Global, Inc.",81.55,3929865305,1999,Technology,Telecommunications Equipment,4/25/17
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,54.36,3885517661,NAN,NAN,NAN,4/23/17
+FCNCA,"First Citizens BancShares, Inc.",322.97,3879000503,NAN,Finance,Major Banks,4/25/17
+MDCO,The Medicines Company,54.07,3859537093,2000,Health Care,Major Pharmaceuticals,4/26/17
+LILA,Liberty Global plc,22.34,3858947998,NAN,Consumer Services,Television Services,4/25/17
+TCBI,"Texas Capital Bancshares, Inc.",77.85,3858056980,2003,Finance,Major Banks,4/24/17
+LNCE,"Snyder&#39;s-Lance, Inc.",39.92,3852210499,NAN,Consumer Non-Durables,Specialty Foods,4/23/17
+LVNTB,Liberty Interactive Corporation,44.86,3832054651,NAN,Consumer Services,Catalog/Specialty Distribution,4/23/17
+CACC,Credit Acceptance Corporation,192.56,3827679951,1992,Finance,Finance: Consumer Services,4/26/17
+IBKC,IBERIABANK Corporation,74.7,3807464677,NAN,Finance,Major Banks,4/26/17
+OLED,Universal Display Corporation,81,3805459218,NAN,Capital Goods,Electrical Products,4/25/17
+HAIN,"The Hain Celestial Group, Inc.",36.6,3786203571,NAN,Consumer Non-Durables,Packaged Foods,4/26/17
+VMBS,Vanguard Mortgage-Backed Securities ETF,52.78,3759318308,NAN,NAN,NAN,4/23/17
+CBRL,"Cracker Barrel Old Country Store, Inc.",155.88,3747756279,1981,Consumer Services,Restaurants,4/24/17
+ACHC,"Acadia Healthcare Company, Inc.",42.61,3730634353,NAN,Health Care,Medical Specialities,4/26/17
+TECH,Bio-Techne Corp,99.85,3725584129,NAN,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+HBHC,Hancock Holding Company,43,3716270528,NAN,Finance,Major Banks,4/23/17
+SAVE,"Spirit Airlines, Inc.",53.51,3711638317,2011,Transportation,Air Freight/Delivery Services,4/25/17
+UMPQ,Umpqua Holdings Corporation,16.72,3684143638,NAN,Finance,Savings Institutions,4/24/17
+MPWR,"Monolithic Power Systems, Inc.",88.97,3663070171,2004,Technology,Semiconductors,4/26/17
+BLKB,"Blackbaud, Inc.",77,3659965078,2004,Technology,Computer Software: Prepackaged Software,4/24/17
+NUVA,"NuVasive, Inc.",71.7,3632341502,2004,Health Care,Medical/Dental Instruments,4/24/17
+GOLD,Randgold Resources Limited,93.9,3614230813,NAN,Basic Industries,Precious Metals,4/23/17
+UMBF,UMB Financial Corporation,72.11,3593976678,NAN,Finance,Major Banks,4/23/17
+VWR,VWR Corporation,27.24,3587047535,2014,Consumer Durables,Diversified Electronic Products,4/26/17
+ESGR,Enstar Group Limited,184.6,3585731687,NAN,Finance,Property-Casualty Insurers,4/24/17
+HOMB,"Home BancShares, Inc.",24.92,3574570254,2006,Finance,Major Banks,4/23/17
+VSAT,"ViaSat, Inc.",61.91,3565336847,1996,Technology,Radio And Television Broadcasting And Communications Equipment,4/24/17
+BLUE,"bluebird bio, Inc.",86.2,3520818053,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+BRKR,Bruker Corporation,21.9,3501469127,NAN,Capital Goods,Biotechnology: Laboratory Analytical Instruments,4/24/17
+MKSI,"MKS Instruments, Inc.",64.85,3492917691,1999,Capital Goods,Industrial Machinery/Components,4/24/17
+MDSO,"Medidata Solutions, Inc.",60.3,3479617832,2009,Technology,Computer Software: Prepackaged Software,4/24/17
+LSTR,"Landstar System, Inc.",83.05,3474796885,1993,Transportation,Trucking Freight/Courier Services,4/24/17
+LANC,Lancaster Colony Corporation,126.32,3465101352,NAN,Consumer Non-Durables,Packaged Foods,4/25/17
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,49.6,3446793826,NAN,NAN,NAN,4/23/17
+WTFC,Wintrust Financial Corporation,65.14,3420088608,NAN,Finance,Major Banks,4/23/17
+MANH,"Manhattan Associates, Inc.",49.22,3417999177,1998,Technology,Computer Software: Prepackaged Software,4/25/17
+LPLA,LPL Financial Holdings Inc.,37.8,3404653333,2010,Finance,Investment Bankers/Brokers/Service,4/25/17
+LFUS,"Littelfuse, Inc.",149.83,3392334442,NAN,Consumer Durables,Electrical Products,4/24/17
+MLCO,Melco Resorts & Entertainment Limited,19.79,3373944063,NAN,Consumer Services,Hotels/Resorts,4/23/17
+WIX,Wix.com Ltd.,75,3362950650,2013,Technology,"Computer Software: Programming, Data Processing",4/23/17
+TECD,Tech Data Corporation,88.32,3357297738,1986,Technology,Retail: Computer Software & Peripheral Equipment,4/25/17
+PEGA,Pegasystems Inc.,43.6,3341638986,1996,Technology,EDP Services,4/24/17
+CHFC,Chemical Financial Corporation,46.76,3323160535,NAN,Finance,Major Banks,4/23/17
+NTCT,"NetScout Systems, Inc.",36.15,3318097483,1999,Technology,EDP Services,4/23/17
+MBFI,MB Financial Inc.,39.51,3311770910,NAN,Finance,Major Banks,4/23/17
+WEN,Wendy&#39;s Company (The),13.41,3311288026,NAN,Consumer Services,Restaurants,4/24/17
+LOPE,"Grand Canyon Education, Inc.",69.33,3310006452,2008,Consumer Services,Other Consumer Services,4/26/17
+PSEC,Prospect Capital Corporation,9.14,3283967122,2004,NAN,NAN,4/25/17
+MORN,"Morningstar, Inc.",76.4,3279899674,2005,Finance,Investment Managers,4/23/17
+HCSG,"Healthcare Services Group, Inc.",44.9,3269258800,1983,Health Care,Hospital/Nursing Management,4/26/17
+PFPT,"Proofpoint, Inc.",74.46,3223850167,2012,Technology,EDP Services,4/24/17
+MTSI,"MACOM Technology Solutions Holdings, Inc.",50.76,3215293167,2012,Technology,Semiconductors,4/25/17
+ENTG,"Entegris, Inc.",22.55,3184521847,2000,Consumer Non-Durables,Plastic Products,4/26/17
+SLGN,Silgan Holdings Inc.,57.6,3170946701,1997,Consumer Durables,Containers/Packaging,4/25/17
+TXRH,"Texas Roadhouse, Inc.",44.24,3136933068,2004,Consumer Services,Restaurants,4/23/17
+UBSI,"United Bankshares, Inc.",38.65,3134159575,NAN,Finance,Major Banks,4/23/17
+JACK,Jack In The Box Inc.,98.84,3127468989,NAN,Consumer Services,Restaurants,4/26/17
+PRXL,PAREXEL International Corporation,61.1,3113325144,1995,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/26/17
+NXST,"Nexstar Media Group, Inc.",66,3109070514,2003,Consumer Services,Broadcasting,4/24/17
+IDTI,"Integrated Device Technology, Inc.",23.24,3100671225,1984,Technology,Semiconductors,4/26/17
+SFM,"Sprouts Farmers Market, Inc.",22.69,3098044248,2013,Consumer Services,Food Chains,4/26/17
+IART,Integra LifeSciences Holdings Corporation,41.14,3077937522,NAN,Capital Goods,Biotechnology: Laboratory Analytical Instruments,4/26/17
+ANAT,American National Insurance Company,113.34,3051919214,NAN,Finance,Life Insurance,4/24/17
+WMGI,Wright Medical Group N.V.,29.41,3047622867,2011,Health Care,Industrial Specialties,4/24/17
+CRTO,Criteo S.A.,49.92,3040340659,2013,Technology,Advertising,4/23/17
+XOG,"Extraction Oil & Gas, Inc.",17.66,3034599124,2016,Energy,Oil & Gas Production,4/25/17
+PNFP,"Pinnacle Financial Partners, Inc.",60.9,3030467798,NAN,Finance,Major Banks,4/26/17
+BGCP,"BGC Partners, Inc.",10.72,3028299661,NAN,Finance,Investment Bankers/Brokers/Service,4/25/17
+MOMO,Momo Inc.,38.18,3006659193,2014,Technology,Computer Software: Prepackaged Software,4/26/17
+AAXJ,iShares MSCI All Country Asia ex Japan Index Fund,62.79,2976246000,NAN,NAN,NAN,4/25/17
+FULT,Fulton Financial Corporation,17,2962483036,NAN,Finance,Major Banks,4/23/17
+CBPO,"China Biologic Products, Inc.",108.34,2945199065,NAN,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+CAKE,The Cheesecake Factory Incorporated,61.67,2943235100,1992,Consumer Services,Restaurants,4/23/17
+SLAB,"Silicon Laboratories, Inc.",69.1,2922103495,2000,Technology,Semiconductors,4/25/17
+WAFD,"Washington Federal, Inc.",32.7,2920343249,NAN,Finance,Major Banks,4/24/17
+BECN,"Beacon Roofing Supply, Inc.",48.6,2919731411,2004,Consumer Services,RETAIL: Building Materials,4/24/17
+RP,"RealPage, Inc.",35.95,2910513402,2010,Technology,Computer Software: Prepackaged Software,4/23/17
+ICUI,"ICU Medical, Inc.",147,2910187959,1992,Health Care,Medical/Dental Instruments,4/25/17
+PZZA,"Papa John&#39;s International, Inc.",78.61,2895772292,1993,Consumer Services,Restaurants,4/26/17
+PAAS,Pan American Silver Corp.,18.89,2891435044,NAN,Basic Industries,Precious Metals,4/26/17
+NKTR,Nektar Therapeutics,18.73,2881255510,NAN,Health Care,Major Pharmaceuticals,4/25/17
+FSLR,"First Solar, Inc.",27.42,2859197358,2006,Technology,Semiconductors,4/25/17
+WB,Weibo Corporation,50.16,2856598156,2014,Technology,"Computer Software: Programming, Data Processing",4/26/17
+SANM,Sanmina Corporation,38.4,2852869632,1993,Technology,Electrical Products,4/26/17
+IDCC,"InterDigital, Inc.",83.05,2849170688,NAN,Miscellaneous,Multi-Sector Companies,4/23/17
+CATY,Cathay General Bancorp,35.7,2842463167,NAN,Finance,Major Banks,4/26/17
+GRFS,"Grifols, S.A.",19.53,2838503578,NAN,Health Care,Major Pharmaceuticals,4/25/17
+GPOR,Gulfport Energy Corporation,15.85,2812262584,NAN,Energy,Oil & Gas Production,4/24/17
+GLNG,Golar LNG Limited,26.67,2693670000,NAN,Consumer Services,Marine Transportation,4/25/17
+GWPH,GW Pharmaceuticals Plc,117.07,2689916805,2013,Health Care,Major Pharmaceuticals,4/26/17
+LITE,Lumentum Holdings Inc.,44.1,2688162996,NAN,Consumer Durables,Telecommunications Equipment,4/25/17
+FNSR,Finisar Corporation,24.1,2684444100,1999,Technology,Semiconductors,4/26/17
+CMPR,Cimpress N.V,85.9,2671357113,NAN,Miscellaneous,Publishing,4/24/17
+DORM,"Dorman Products, Inc.",77.14,2665593374,NAN,Capital Goods,Auto Parts:O.E.M.,4/24/17
+ICPT,"Intercept Pharmaceuticals, Inc.",107.33,2665161782,2012,Health Care,Major Pharmaceuticals,4/24/17
+AFSI,"AmTrust Financial Services, Inc.",15.55,2660256431,NAN,Finance,Property-Casualty Insurers,4/25/17
+ILG,"ILG, Inc",21.32,2650218737,NAN,Finance,Real Estate,4/25/17
+SIGI,"Selective Insurance Group, Inc.",45.4,2644413028,NAN,Finance,Property-Casualty Insurers,4/23/17
+LEXEA,"Liberty Expedia Holdings, Inc.",46.33,2639082123,NAN,Consumer Services,Other Consumer Services,4/23/17
+NICE,NICE Ltd,66.61,2637390777,NAN,Technology,Computer Manufacturing,4/26/17
+SAGE,"Sage Therapeutics, Inc.",70.39,2623447970,2014,Health Care,Major Pharmaceuticals,4/26/17
+BWLD,"Buffalo Wild Wings, Inc.",150.75,2621486723,2003,Consumer Services,Restaurants,4/24/17
+PSMT,"PriceSmart, Inc.",85.85,2609676542,NAN,Consumer Services,Department/Specialty Retail Stores,4/23/17
+URBN,"Urban Outfitters, Inc.",22.42,2607229826,1993,Consumer Services,Clothing/Shoe/Accessory Stores,4/24/17
+AMKR,"Amkor Technology, Inc.",10.9,2605260513,1998,Technology,Semiconductors,4/26/17
+HA,"Hawaiian Holdings, Inc.",48.35,2593189830,NAN,Transportation,Air Freight/Delivery Services,4/23/17
+RRR,"Red Rock Resorts, Inc.",22.35,2589221306,2016,Consumer Services,Hotels/Resorts,4/23/17
+EXAS,Exact Sciences Corporation,23.27,2573750612,2001,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/26/17
+HQY,"HealthEquity, Inc.",43.09,2569385214,2014,Miscellaneous,Business Services,4/23/17
+AEIS,"Advanced Energy Industries, Inc.",64.45,2562385570,1995,Capital Goods,Industrial Machinery/Components,4/25/17
+LPNT,"LifePoint Health, Inc.",63.95,2554415986,NAN,Health Care,Hospital/Nursing Management,4/24/17
+CHDN,"Churchill Downs, Incorporated",155,2546787020,NAN,Consumer Services,Services-Misc. Amusement & Recreation,4/24/17
+JUNO,"Juno Therapeutics, Inc.",24.01,2545550620,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+ALGT,Allegiant Travel Company,152.05,2529317235,2006,Transportation,Air Freight/Delivery Services,4/23/17
+RARE,Ultragenyx Pharmaceutical Inc.,60.28,2515287646,2014,Health Care,Major Pharmaceuticals,4/25/17
+PLAY,"Dave & Buster&#39;s Entertainment, Inc.",59.9,2514990571,2014,Consumer Services,Restaurants,4/25/17
+SSB,South State Corporation,85.8,2507996977,NAN,Finance,Major Banks,4/25/17
+CLVS,"Clovis Oncology, Inc.",56.17,2506670112,2011,Health Care,Major Pharmaceuticals,4/25/17
+HZNP,Horizon Pharma plc,15.33,2489021172,2011,Health Care,Major Pharmaceuticals,4/26/17
+JJSF,J & J Snack Foods Corp.,132.67,2482158188,1986,Consumer Non-Durables,Specialty Foods,4/25/17
+MLNX,"Mellanox Technologies, Ltd.",49.95,2481473942,2007,Technology,Semiconductors,4/23/17
+FIVE,"Five Below, Inc.",45.12,2478459061,2012,Consumer Services,Department/Specialty Retail Stores,4/25/17
+AYA,Amaya Inc.,16.85,2467325566,NAN,Technology,"Computer Software: Programming, Data Processing",4/23/17
+NTNX,"Nutanix, Inc.",17.21,2464720340,2016,Technology,Computer Software: Prepackaged Software,4/25/17
+FNGN,"Financial Engines, Inc.",39.6,2464019474,2010,Finance,Investment Managers,4/23/17
+LAUR,"Laureate Education, Inc.",14.6,2458705393,2017,Consumer Services,Other Consumer Services,4/25/17
+GBCI,"Glacier Bancorp, Inc.",32.06,2456435661,NAN,Finance,Major Banks,4/23/17
+FV,First Trust Dorsey Wright Focus 5 ETF,23.5,2452225047,NAN,NAN,NAN,4/23/17
+SAFM,"Sanderson Farms, Inc.",107.49,2444373658,1987,Consumer Non-Durables,Meat/Poultry/Fish,4/24/17
+HELE,Helen of Troy Limited,90.55,2443701464,NAN,Consumer Durables,Home Furnishings,4/25/17
+FFIN,"First Financial Bankshares, Inc.",36.95,2443341733,NAN,Finance,Major Banks,4/25/17
+LIVN,LivaNova PLC,50.71,2443114240,NAN,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/26/17
+HOPE,"Hope Bancorp, Inc.",17.99,2433017234,NAN,Finance,Major Banks,4/23/17
+VRNT,Verint Systems Inc.,38.8,2421854329,2002,Technology,EDP Services,4/26/17
+ACIW,"ACI Worldwide, Inc.",20.55,2410633656,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+ZNGA,Zynga Inc.,2.77,2404921762,2011,Technology,EDP Services,4/26/17
+BCPC,Balchem Corporation,75.59,2401556586,NAN,Basic Industries,Major Chemicals,4/25/17
+CBSHP,"Commerce Bancshares, Inc.",26.19,2400062181,NAN,Finance,Major Banks,4/26/17
+ENDP,Endo International plc,10.75,2398361658,NAN,Health Care,Major Pharmaceuticals,4/24/17
+PODD,Insulet Corporation,41.37,2394461718,2007,Health Care,Medical/Dental Instruments,4/25/17
+ODP,"Office Depot, Inc.",4.65,2393916190,NAN,Consumer Services,Other Specialty Stores,4/26/17
+CAR,"Avis Budget Group, Inc.",27.76,2372125728,NAN,Consumer Services,Rental/Leasing Companies,4/23/17
+ROIC,Retail Opportunity Investments Corp.,21.51,2360210476,NAN,Consumer Services,Real Estate Investment Trusts,4/25/17
+CREE,"Cree, Inc.",24.1,2347459006,1993,Technology,Semiconductors,4/25/17
+KLXI,KLX Inc.,44.52,2337688838,NAN,Capital Goods,Aerospace,4/23/17
+AGIO,"Agios Pharmaceuticals, Inc.",55.33,2336824704,2013,Health Care,Major Pharmaceuticals,4/25/17
+LEXEB,"Liberty Expedia Holdings, Inc.",41,2335470905,NAN,Consumer Services,Other Consumer Services,4/26/17
+SIR,Select Income REIT,26.06,2330490266,NAN,Consumer Services,Real Estate Investment Trusts,4/25/17
+INCR,"INC Research Holdings, Inc.",42.95,2319342993,2014,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/23/17
+TTEK,"Tetra Tech, Inc.",40.3,2309877236,1991,Consumer Services,Military/Government/Technical,4/24/17
+FCFS,"First Cash, Inc.",47.7,2303418213,1991,Consumer Services,Other Specialty Stores,4/25/17
+IRWD,"Ironwood Pharmaceuticals, Inc.",15.55,2299128487,2010,Health Care,Major Pharmaceuticals,4/23/17
+EFII,"Electronics for Imaging, Inc.",49.44,2295591010,1992,Technology,Computer Communications Equipment,4/23/17
+FMBI,"First Midwest Bancorp, Inc.",22.33,2291306332,NAN,Finance,Major Banks,4/24/17
+ITRI,"Itron, Inc.",59.15,2286029023,1993,Capital Goods,Electrical Products,4/26/17
+FTR,Frontier Communications Corporation,1.94,2285277341,NAN,Public Utilities,Telecommunications Equipment,4/26/17
+NGHC,National General Holdings Corp,21.45,2284473263,NAN,Finance,Property-Casualty Insurers,4/24/17
+ZLTQ,"ZELTIQ Aesthetics, Inc.",56.41,2279819965,2011,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/26/17
+NEOG,Neogen Corporation,59.66,2274208535,1989,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/23/17
+TELL,Tellurian Inc.,11.27,2250688412,NAN,Energy,Oil & Gas Production,4/23/17
+CVLT,"Commvault Systems, Inc.",49.75,2242713483,2006,Technology,Computer Software: Prepackaged Software,4/23/17
+CVBF,CVB Financial Corporation,20.31,2236300731,NAN,Finance,Major Banks,4/24/17
+MGEE,MGE Energy Inc.,64.5,2236109865,NAN,Energy,Electric Utilities: Central,4/25/17
+OKTA,"Okta, Inc.",24.49,2222682449,2017,Technology,Computer Software: Prepackaged Software,4/26/17
+VIAV,Viavi Solutions Inc.,9.64,2220228686,NAN,Technology,Semiconductors,4/23/17
+TIVO,TiVo Corporation,18.25,2210988285,NAN,Miscellaneous,Multi-Sector Companies,4/24/17
+ONB,Old National Bancorp,16.3,2206544985,NAN,Finance,Major Banks,4/24/17
+LGND,Ligand Pharmaceuticals Incorporated,105.34,2203701634,NAN,Health Care,Major Pharmaceuticals,4/26/17
+IBOC,International Bancshares Corporation,33.35,2200754194,NAN,Finance,Major Banks,4/23/17
+ROLL,RBC Bearings Incorporated,91.68,2199534761,2005,Capital Goods,Metal Fabrications,4/26/17
+MCHI,iShares MSCI China ETF,49.97,2188686000,NAN,NAN,NAN,4/26/17
+SHOO,"Steven Madden, Ltd.",36.55,2184033189,1993,Consumer Non-Durables,Shoe Manufacturing,4/25/17
+MDRX,"Allscripts Healthcare Solutions, Inc.",12.07,2178792936,NAN,Technology,EDP Services,4/25/17
+VIRT,"Virtu Financial, Inc.",15.6,2174003536,2015,Finance,Investment Bankers/Brokers/Service,4/25/17
+CBF,Capital Bank Financial Corp.,41.8,2164512555,2012,Finance,Major Banks,4/26/17
+HAWK,"Blackhawk Network Holdings, Inc.",38.8,2163604400,2013,Finance,Finance: Consumer Services,4/25/17
+COLB,"Columbia Banking System, Inc.",37.02,2159452454,1992,Finance,Major Banks,4/26/17
+PTLA,"Portola Pharmaceuticals, Inc.",38.01,2149746622,2013,Health Care,Major Pharmaceuticals,4/25/17
+FEYE,"FireEye, Inc.",12,2130089700,2013,Technology,Computer peripheral equipment,4/26/17
+CACQ,Caesars Acquisition Company,15.25,2117373044,NAN,Consumer Services,Hotels/Resorts,4/23/17
+ACXM,Acxiom Corporation,26.93,2107492410,NAN,Technology,EDP Services,4/24/17
+UNFI,"United Natural Foods, Inc.",41.63,2106171062,1996,Consumer Non-Durables,Food Distributors,4/24/17
+MATW,Matthews International Corporation,64.75,2088320950,1994,Capital Goods,Metal Fabrications,4/24/17
+ACIA,"Acacia Communications, Inc.",54.07,2085554138,2016,Technology,Semiconductors,4/25/17
+SMTC,Semtech Corporation,31.6,2084770405,NAN,Technology,Semiconductors,4/25/17
+TRMK,Trustmark Corporation,30.45,2079290034,NAN,Finance,Major Banks,4/23/17
+MSTR,MicroStrategy Incorporated,181.61,2076763743,1998,Technology,Computer Software: Prepackaged Software,4/25/17
+ERIC,Ericsson,6.36,2074717332,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/25/17
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,40.44,2072486994,NAN,NAN,NAN,4/23/17
+FSV,FirstService Corporation,59.77,2063076129,NAN,Finance,Real Estate,4/23/17
+ABY,Atlantica Yield plc,20.56,2060466866,2014,Public Utilities,Electric Utilities: Central,4/26/17
+ACWX,iShares MSCI ACWI ex US Index Fund,43.24,2058224000,NAN,NAN,NAN,4/24/17
+WSTC,West Corporation,24.32,2057604447,2013,Miscellaneous,Business Services,4/24/17
+GRPN,"Groupon, Inc.",3.66,2057190891,2011,Technology,Advertising,4/24/17
+TWNK,"Hostess Brands, Inc.",15.68,2037708590,2015,Consumer Non-Durables,Packaged Foods,4/25/17
+OLLI,"Ollie&#39;s Bargain Outlet Holdings, Inc.",33.3,2027371100,2015,Consumer Services,Department/Specialty Retail Stores,4/25/17
+CSOD,"Cornerstone OnDemand, Inc.",35.73,2024352252,2011,Technology,Computer Software: Prepackaged Software,4/24/17
+BLMN,"Bloomin&#39; Brands, Inc.",19.55,2014144126,2012,Consumer Services,Restaurants,4/26/17
+TBPH,"Theravance Biopharma, Inc.",37.84,2000051628,NAN,Health Care,Major Pharmaceuticals,4/26/17
+PRTA,Prothena Corporation plc,52.54,1993416462,NAN,Health Care,Major Pharmaceuticals,4/25/17
+CCOI,"Cogent Communications Holdings, Inc.",43.5,1981345569,NAN,Consumer Services,Telecommunications Equipment,4/23/17
+PCTY,Paylocity Holding Corporation,38.46,1978282096,2014,Technology,Computer Software: Prepackaged Software,4/23/17
+CFFN,"Capitol Federal Financial, Inc.",14.3,1973050093,NAN,Finance,Savings Institutions,4/24/17
+TWOU,"2U, Inc.",41.74,1971375066,2014,Technology,Computer Software: Prepackaged Software,4/25/17
+IIVI,II-VI Incorporated,31.5,1970686337,1987,Capital Goods,Electronic Components,4/25/17
+CATM,Cardtronics plc,43.08,1964795828,2007,Miscellaneous,Business Services,4/24/17
+AVXS,"AveXis, Inc.",70.75,1962585473,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+MMYT,MakeMyTrip Limited,38.05,1960989052,2010,Consumer Services,Transportation Services,4/24/17
+FELE,"Franklin Electric Co., Inc.",41.8,1940107081,NAN,Consumer Durables,Metal Fabrications,4/26/17
+TSEM,Tower Semiconductor Ltd.,20.8,1934080221,1994,Technology,Semiconductors,4/23/17
+AGII,"Argo Group International Holdings, Ltd.",64.4,1933226047,NAN,Finance,Specialty Insurers,4/24/17
+UFPI,"Universal Forest Products, Inc.",94.99,1933224036,1993,Basic Industries,Forest Products,4/23/17
+PLCE,"Children&#39;s Place, Inc. (The)",109.95,1928356976,1997,Consumer Services,Clothing/Shoe/Accessory Stores,4/23/17
+WBMD,WebMD Health Corp,51.07,1926997754,2005,Miscellaneous,Business Services,4/25/17
+TOWN,Towne Bank,30.8,1924758774,NAN,NAN,NAN,4/23/17
+PLXS,Plexus Corp.,56.89,1916696635,NAN,Technology,Electrical Products,4/23/17
+HTHT,"China Lodging Group, Limited",58.9,1905750907,2010,Consumer Services,Hotels/Resorts,4/25/17
+PCH,Potlatch Corporation,46.9,1904536633,NAN,Consumer Services,Real Estate Investment Trusts,4/25/17
+COKE,Coca-Cola Bottling Co. Consolidated,202.18,1887182288,1972,Consumer Non-Durables,Beverages (Production/Distribution),4/25/17
+ABCO,The Advisory Board Company,46.85,1885048167,2001,Consumer Services,Other Consumer Services,4/24/17
+EBIX,"Ebix, Inc.",59.75,1882079949,NAN,Technology,EDP Services,4/24/17
+EGBN,"Eagle Bancorp, Inc.",55.05,1877779116,NAN,Finance,Major Banks,4/24/17
+CALM,"Cal-Maine Foods, Inc.",38.575,1873840455,1996,Consumer Non-Durables,Farming/Seeds/Milling,4/26/17
+QTEC,First Trust NASDAQ-100- Technology Index Fund,58.81,1873098618,NAN,NAN,NAN,4/23/17
+HSNI,"HSN, Inc.",35.75,1872167512,NAN,Consumer Services,Other Specialty Stores,4/23/17
+CENT,Central Garden & Pet Company,36.47,1871980300,1993,Consumer Durables,Consumer Specialties,4/26/17
+UPL,Ultra Petroleum Corp.,12.12,1857462587,NAN,NAN,NAN,4/25/17
+POWI,"Power Integrations, Inc.",62.7,1853197441,1997,Technology,Semiconductors,4/26/17
+PEGI,Pattern Energy Group Inc.,21.15,1851063947,2013,Public Utilities,Electric Utilities: Central,4/26/17
+MLHR,"Herman Miller, Inc.",30.85,1848152668,NAN,Consumer Durables,Office Equipment/Supplies/Services,4/25/17
+SGMS,Scientific Games Corp,20.95,1846343361,NAN,Technology,EDP Services,4/24/17
+PCRX,"Pacira Pharmaceuticals, Inc.",45.9,1832562457,2011,Health Care,Major Pharmaceuticals,4/24/17
+MRCY,Mercury Systems Inc,38.22,1832400914,1998,Capital Goods,Electrical Products,4/23/17
+CRZO,"Carrizo Oil & Gas, Inc.",28,1823947188,1997,Energy,Oil & Gas Production,4/24/17
+GGAL,Grupo Financiero Galicia S.A.,38.78,1823477482,NAN,Finance,Commercial Banks,4/24/17
+SBRA,"Sabra Healthcare REIT, Inc.",27.91,1822121487,NAN,Consumer Services,Real Estate Investment Trusts,4/23/17
+PLUS,ePlus inc.,64.25,1819680019,1996,Technology,Retail: Computer Software & Peripheral Equipment,4/24/17
+UCBI,"United Community Banks, Inc.",25.63,1818871087,NAN,Finance,Major Banks,4/25/17
+CYBR,CyberArk Software Ltd.,51.95,1788286331,2014,Technology,Computer Software: Prepackaged Software,4/25/17
+AAON,"AAON, Inc.",33.95,1786783815,NAN,Capital Goods,Industrial Machinery/Components,4/25/17
+STMP,Stamps.com Inc.,105.65,1779971760,1999,Miscellaneous,Business Services,4/24/17
+CIGI,Colliers International Group Inc. ,47.5,1779108558,NAN,Finance,Real Estate,4/26/17
+IRBT,iRobot Corporation,65.13,1774545722,2005,Consumer Durables,Consumer Electronics/Appliances,4/26/17
+INOV,"Inovalon Holdings, Inc.",11.95,1768749375,2015,Technology,EDP Services,4/23/17
+SYNA,Synaptics Incorporated,50.01,1768254930,2002,Technology,EDP Services,4/26/17
+LTXB,"LegacyTexas Financial Group, Inc.",36.87,1765575181,NAN,Finance,Savings Institutions,4/23/17
+CCMP,Cabot Microelectronics Corporation,70.44,1763051847,2000,Technology,Semiconductors,4/26/17
+TERP,"TerraForm Power, Inc.",12.39,1760815555,2014,Public Utilities,Electric Utilities: Central,4/23/17
+RNST,Renasant Corporation,39.65,1760250133,NAN,Finance,Major Banks,4/23/17
+WERN,"Werner Enterprises, Inc.",24.35,1758551351,1986,Transportation,Trucking Freight/Courier Services,4/26/17
+CENTA,Central Garden & Pet Company,34.22,1756489330,NAN,Consumer Durables,Consumer Specialties,4/26/17
+SFBS,"ServisFirst Bancshares, Inc.",33.26,1756440511,2014,Finance,Major Banks,4/24/17
+VNOM,Viper Energy Partners LP,17.98,1754404901,2014,Energy,Oil & Gas Production,4/26/17
+AMED,Amedisys Inc,52.11,1751282656,NAN,Health Care,Medical/Nursing Services,4/26/17
+BANR,Banner Corporation,52.51,1742803644,NAN,Finance,Major Banks,4/23/17
+VCLT,Vanguard Long-Term Corporate Bond ETF,90.96,1737674462,NAN,NAN,NAN,4/26/17
+CSQ,Calamos Strategic Total Return Fund,11.11,1716650540,2004,NAN,NAN,4/25/17
+SKYW,"SkyWest, Inc.",33.05,1712599145,1986,Transportation,Air Freight/Delivery Services,4/26/17
+MNRO,"Monro Muffler Brake, Inc.",52.45,1708098239,1991,Consumer Services,Automotive Aftermarket,4/23/17
+GSM,Ferroglobe PLC,9.93,1706352859,NAN,Capital Goods,Metal Fabrications,4/25/17
+AMBA,"Ambarella, Inc.",50.71,1700025113,2012,Technology,Semiconductors,4/23/17
+DSGX,The Descartes Systems Group Inc.,22.4,1699592922,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+NXTM,"NxStage Medical, Inc.",26,1695626634,2005,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/24/17
+YY,YY Inc.,43.99,1686189664,2012,Technology,EDP Services,4/23/17
+AHGP,"Alliance Holdings GP, L.P.",28.09,1681551670,2006,Energy,Coal Mining,4/26/17
+ISCA,International Speedway Corporation,37.35,1680691062,1996,Consumer Services,Services-Misc. Amusement & Recreation,4/24/17
+FIBK,"First Interstate BancSystem, Inc.",37.1,1669338059,2010,Finance,Major Banks,4/23/17
+PENN,"Penn National Gaming, Inc.",18.32,1665013328,1994,Consumer Services,Hotels/Resorts,4/25/17
+HALO,"Halozyme Therapeutics, Inc.",12.81,1662754781,NAN,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+BLDR,"Builders FirstSource, Inc.",14.78,1656020563,2005,Consumer Services,RETAIL: Building Materials,4/23/17
+NWBI,"Northwest Bancshares, Inc.",16.25,1655820416,2009,Finance,Major Banks,4/24/17
+PINC,"Premier, Inc.",32.5,1648098010,2013,Consumer Services,Other Consumer Services,4/23/17
+INDB,Independent Bank Corp.,60.9,1647273686,NAN,Finance,Major Banks,4/25/17
+SRPT,"Sarepta Therapeutics, Inc.",29.93,1640560872,NAN,Health Care,Major Pharmaceuticals,4/24/17
+SFNC,Simmons First National Corporation,52.3,1639535232,NAN,Finance,Major Banks,4/24/17
+HMSY,HMS Holdings Corp,19.575,1635545551,1992,Miscellaneous,Business Services,4/23/17
+XXIA,Ixia,19.65,1634911971,2000,Capital Goods,Electrical Products,4/26/17
+SFLY,"Shutterfly, Inc.",48.51,1632388763,2006,Miscellaneous,Other Consumer Services,4/23/17
+FGEN,"FibroGen, Inc",25.25,1626654515,2014,Health Care,Major Pharmaceuticals,4/26/17
+SIMO,Silicon Motion Technology Corporation,46.14,1626304701,2005,Technology,Semiconductors,4/26/17
+NTGR,"NETGEAR, Inc.",49.35,1625179691,2003,Public Utilities,Telecommunications Equipment,4/26/17
+ARLP,"Alliance Resource Partners, L.P.",21.75,1622485533,1999,Energy,Coal Mining,4/26/17
+ONCE,"Spark Therapeutics, Inc.",52.09,1617101077,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+WSBC,"WesBanco, Inc.",36.75,1615266025,NAN,Finance,Major Banks,4/24/17
+IBTX,"Independent Bank Group, Inc",58.25,1615125535,2013,Finance,Major Banks,4/23/17
+FFBC,First Financial Bancorp.,26,1611940174,NAN,Finance,Major Banks,4/24/17
+NTRI,NutriSystem Inc,53.8,1608996654,NAN,Consumer Services,Catalog/Specialty Distribution,4/23/17
+ABCB,Ameris Bancorp,43.2,1604071814,1994,Finance,Major Banks,4/23/17
+MGLN,"Magellan Health, Inc.",67.95,1603578958,NAN,Health Care,Hospital/Nursing Management,4/24/17
+WINS,Wins Finance Holdings Inc.,80,1603331760,2014,Finance,Finance: Consumer Services,4/23/17
+IGF,iShares Global Infrastructure ETF,42.55,1587115000,NAN,NAN,NAN,4/23/17
+HTLD,"Heartland Express, Inc.",19,1583400644,1986,Transportation,Trucking Freight/Courier Services,4/26/17
+TTMI,"TTM Technologies, Inc.",15.56,1583020967,2000,Technology,Electrical Products,4/24/17
+GOV,Government Properties Income Trust,22.21,1580861292,2009,Finance,Real Estate,4/25/17
+PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,113.72,1575022000,NAN,NAN,NAN,4/24/17
+RDUS,"Radius Health, Inc.",36.45,1574147342,2014,Health Care,Major Pharmaceuticals,4/25/17
+LXRX,"Lexicon Pharmaceuticals, Inc.",15.08,1573141498,NAN,Health Care,Major Pharmaceuticals,4/26/17
+AIRM,Air Methods Corporation,43.05,1568299963,NAN,Transportation,Transportation Services,4/24/17
+BOFI,"BofI Holding, Inc.",24.71,1565677713,2005,Finance,Savings Institutions,4/23/17
+XPER,Xperi Corporation,31.8,1565145025,NAN,Technology,Semiconductors,4/26/17
+BL,"BlackLine, Inc.",30.4,1559014266,2016,NAN,NAN,4/24/17
+SUPN,"Supernus Pharmaceuticals, Inc.",31.05,1557545501,2012,Health Care,Major Pharmaceuticals,4/26/17
+WPPGY,WPP plc,107.84,1557440809,NAN,Technology,Advertising,4/23/17
+RMR,The RMR Group Inc.,50.05,1555675722,NAN,Consumer Services,Professional Services,4/25/17
+BMCH,"BMC Stock Holdings, Inc.",23.25,1551731389,2013,Consumer Services,RETAIL: Building Materials,4/24/17
+INVA,"Innoviva, Inc.",14.19,1549564574,NAN,Health Care,Major Pharmaceuticals,4/23/17
+INGN,"Inogen, Inc",75.21,1546218097,2014,Health Care,Industrial Specialties,4/25/17
+EXLS,"ExlService Holdings, Inc.",45.7,1544483370,2006,Miscellaneous,Business Services,4/25/17
+NBTB,NBT Bancorp Inc.,35.56,1543089644,NAN,Finance,Major Banks,4/24/17
+SOHU,Sohu.com Inc.,39.65,1538946869,NAN,Technology,EDP Services,4/23/17
+FEX,First Trust Large Cap Core AlphaDEX Fund,50.74,1537422101,NAN,NAN,NAN,4/24/17
+FRME,First Merchants Corporation,37.1,1530305994,NAN,Finance,Major Banks,4/24/17
+GMLP,Golar LNG Partners LP,21.92,1517922539,2011,Consumer Services,Marine Transportation,4/26/17
+AAAP,Advanced Accelerator Applications S.A.,37.42,1516829018,2015,Health Care,Major Pharmaceuticals,4/23/17
+BPMC,Blueprint Medicines Corporation,45.59,1513765892,2015,Health Care,Major Pharmaceuticals,4/23/17
+BNCN,BNC Bancorp,31.75,1504857290,NAN,Finance,Major Banks,4/26/17
+NAVG,"The Navigators Group, Inc.",51.3,1495679561,1986,Finance,Property-Casualty Insurers,4/26/17
+OTTR,Otter Tail Corporation,37.85,1491701165,NAN,Public Utilities,Electric Utilities: Central,4/23/17
+EXPO,"Exponent, Inc.",58,1484628204,NAN,Consumer Services,Professional Services,4/25/17
+IOSP,Innospec Inc.,60.4,1483000475,NAN,Basic Industries,Major Chemicals,4/25/17
+BRKS,"Brooks Automation, Inc.",21.29,1480104389,1995,Technology,Industrial Machinery/Components,4/24/17
+SHEN,Shenandoah Telecommunications Co,30.05,1475387718,NAN,Public Utilities,Telecommunications Equipment,4/26/17
+UBSH,Union Bankshares Corporation,33.56,1466349833,NAN,Finance,Major Banks,4/23/17
+PRAA,"PRA Group, Inc.",31.55,1464214362,2002,Finance,Finance: Consumer Services,4/24/17
+COUP,Coupa Software Incorporated,28.98,1463352026,2016,Technology,Computer Software: Prepackaged Software,4/24/17
+ORBK,Orbotech Ltd.,30.59,1463288129,NAN,Capital Goods,Industrial Machinery/Components,4/26/17
+OMCL,"Omnicell, Inc.",39.55,1461515394,2001,Technology,Computer Manufacturing,4/24/17
+SCHL,Scholastic Corporation,41.89,1458869057,1992,Consumer Services,Books,4/26/17
+APOG,"Apogee Enterprises, Inc.",50.72,1452940742,NAN,Capital Goods,Auto Parts:O.E.M.,4/26/17
+SYNT,"Syntel, Inc.",17.37,1452739168,1997,Technology,EDP Services,4/25/17
+NSIT,"Insight Enterprises, Inc.",40.6,1451447077,1995,Consumer Services,Catalog/Specialty Distribution,4/25/17
+AINV,Apollo Investment Corporation,6.6,1449984716,2004,NAN,NAN,4/26/17
+AERI,"Aerie Pharmaceuticals, Inc.",43,1445927718,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+WDFC,WD-40 Company,102.8,1445697371,1973,Basic Industries,Major Chemicals,4/25/17
+TTD,"The Trade Desk, Inc.",36.85,1441994154,2016,Technology,"Computer Software: Programming, Data Processing",4/24/17
+ALRM,"Alarm.com Holdings, Inc.",31.04,1437379058,2015,Technology,Computer Software: Prepackaged Software,4/24/17
+ARRY,Array BioPharma Inc.,8.46,1429801293,2000,Health Care,Major Pharmaceuticals,4/23/17
+VGSH,Vanguard Short-Term Government ETF,60.89,1427719249,NAN,NAN,NAN,4/24/17
+OCLR,"Oclaro, Inc.",8.57,1427679668,NAN,Technology,Semiconductors,4/25/17
+CORE,"Core-Mark Holding Company, Inc.",30.82,1427515767,NAN,Consumer Non-Durables,Food Distributors,4/25/17
+DERM,"Dermira, Inc.",34.17,1415501783,2014,Health Care,Major Pharmaceuticals,4/24/17
+WSFS,WSFS Financial Corporation,45.05,1414391917,NAN,Finance,Major Banks,4/24/17
+FWRD,Forward Air Corporation,46.45,1405581970,NAN,Transportation,Oil Refining/Marketing,4/24/17
+IMPV,"Imperva, Inc.",41.95,1403418121,NAN,Technology,Computer Software: Prepackaged Software,4/25/17
+PRGS,Progress Software Corporation,29.09,1398662472,1991,Technology,Computer Software: Prepackaged Software,4/23/17
+CZR,Caesars Entertainment Corporation,9.5,1398256902,2012,Consumer Services,Hotels/Resorts,4/25/17
+SHLD,Sears Holdings Corporation,13.04,1397249536,NAN,Consumer Services,Department/Specialty Retail Stores,4/25/17
+AMWD,American Woodmark Corporation,86.05,1396817381,1986,Basic Industries,Forest Products,4/23/17
+WABC,Westamerica Bancorporation,52.98,1391986825,NAN,Finance,Major Banks,4/26/17
+CMCT,CIM Commercial Trust Corporation,16.516,1388138106,NAN,Consumer Services,Real Estate Investment Trusts,4/25/17
+INFN,Infinera Corporation,9.45,1383625067,2007,Public Utilities,Telecommunications Equipment,4/24/17
+ASTE,"Astec Industries, Inc.",60.02,1383223861,1986,Capital Goods,Construction/Ag Equipment/Trucks,4/25/17
+TREE,"LendingTree, Inc.",116.8,1382881165,NAN,Finance,Finance: Consumer Services,4/26/17
+RMBS,"Rambus, Inc.",12.35,1378496453,1997,Technology,Semiconductors,4/26/17
+KLIC,"Kulicke and Soffa Industries, Inc.",19.36,1373701132,NAN,Technology,Semiconductors,4/25/17
+BANF,BancFirst Corporation,86.5,1372118706,1993,Finance,Major Banks,4/24/17
+PDP,PowerShares DWA Momentum Portfolio,44.12,1369926000,NAN,NAN,NAN,4/24/17
+EGOV,NIC Inc.,20.35,1358861706,1999,Miscellaneous,Business Services,4/25/17
+AAWW,Atlas Air Worldwide Holdings,53.9,1354324171,NAN,Transportation,Transportation Services,4/26/17
+KALU,Kaiser Aluminum Corporation,77.02,1346530108,NAN,Capital Goods,Metal Fabrications,4/24/17
+EGHT,8x8 Inc,14.8,1345806002,NAN,Public Utilities,Telecommunications Equipment,4/26/17
+PKW,PowerShares BuyBack Achievers Portfolio,50.92,1344288000,NAN,NAN,NAN,4/23/17
+PSDO,"Presidio, Inc.",15.13,1340685096,2017,Technology,Retail: Computer Software & Peripheral Equipment,4/23/17
+MANT,ManTech International Corporation,34.39,1334028990,2002,Consumer Services,Other Consumer Services,4/26/17
+HUBG,"Hub Group, Inc.",38.95,1329873667,1996,Transportation,Oil Refining/Marketing,4/26/17
+EGRX,"Eagle Pharmaceuticals, Inc.",87.28,1329026961,2014,Health Care,Major Pharmaceuticals,4/23/17
+TTEC,"TeleTech Holdings, Inc.",28.95,1328602379,1996,Technology,Professional Services,4/24/17
+OSIS,"OSI Systems, Inc.",71.03,1327704551,1997,Technology,Semiconductors,4/24/17
+SSRI,Silver Standard Resources Inc.,11.1,1325623516,NAN,Basic Industries,Precious Metals,4/23/17
+PBYI,Puma Biotechnology Inc,35.65,1317338016,NAN,Health Care,Major Pharmaceuticals,4/25/17
+RUSHA,"Rush Enterprises, Inc.",33.16,1315949560,NAN,Consumer Durables,Automotive Aftermarket,4/25/17
+BPFH,"Boston Private Financial Holdings, Inc.",15.55,1308283778,NAN,Finance,Major Banks,4/25/17
+SPTN,SpartanNash Company,34.82,1306422165,NAN,Consumer Non-Durables,Food Distributors,4/24/17
+HMHC,Houghton Mifflin Harcourt Company,10.6,1305540997,2013,Consumer Services,Books,4/23/17
+QLYS,"Qualys, Inc.",35.7,1298028438,2012,Technology,Computer Software: Prepackaged Software,4/26/17
+TQQQ,ProShares UltraPro QQQ,84.23,1297142000,NAN,NAN,NAN,4/26/17
+KRNY,Kearny Financial,14.65,1292722519,NAN,Finance,Savings Institutions,4/23/17
+GNCMA,"General Communication, Inc.",35.59,1275687960,NAN,Public Utilities,Telecommunications Equipment,4/23/17
+BABY,Natus Medical Incorporated,38.75,1273584741,2001,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/25/17
+THRM,Gentherm Inc,34.65,1267597866,NAN,Capital Goods,Auto Parts:O.E.M.,4/24/17
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,35.05,1267057500,NAN,NAN,NAN,4/24/17
+MIME,Mimecast Limited,22.97,1266130243,2015,Technology,Computer Software: Prepackaged Software,4/24/17
+VREX,Varex Imaging Corporation,33.84,1265166943,NAN,Capital Goods,Industrial Machinery/Components,4/26/17
+MMSI,"Merit Medical Systems, Inc.",28.2,1259966356,NAN,Health Care,Medical/Dental Instruments,4/26/17
+CALD,"Callidus Software, Inc.",19.75,1258681029,2003,Technology,EDP Services,4/25/17
+CNMD,CONMED Corporation,45.21,1258489612,1987,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/23/17
+GBT,"Global Blood Therapeutics, Inc.",28.9,1258137600,2015,Health Care,Major Pharmaceuticals,4/24/17
+MINI,"Mobile Mini, Inc.",28.3,1257635416,1994,Capital Goods,Metal Fabrications,4/25/17
+BOBE,"Bob Evans Farms, Inc.",63.38,1253631238,NAN,Consumer Services,Restaurants,4/26/17
+TRUE,"TrueCar, Inc.",14.2,1246980867,2014,Technology,"Computer Software: Programming, Data Processing",4/23/17
+CSTE,Caesarstone Ltd.,36.1,1239008785,2012,Capital Goods,Building Materials,4/24/17
+MYGN,"Myriad Genetics, Inc.",18.15,1235861288,1995,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/25/17
+SPNC,The Spectranetics Corporation,28.4,1234692584,1992,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,4/23/17
+HTLF,"Heartland Financial USA, Inc.",47.1,1233270733,NAN,Finance,Major Banks,4/24/17
+GPRO,"GoPro, Inc.",8.63,1226426500,2014,Miscellaneous,Industrial Machinery/Components,4/23/17
+AMSF,"AMERISAFE, Inc.",63.7,1224959600,2005,Finance,Property-Casualty Insurers,4/23/17
+FTSL,First Trust Senior Loan Fund ETF,48.52,1222704097,NAN,NAN,NAN,4/25/17
+CSGS,"CSG Systems International, Inc.",36.08,1220842315,1996,Technology,EDP Services,4/24/17
+SYKE,"Sykes Enterprises, Incorporated",28.44,1219920092,1996,Technology,EDP Services,4/25/17
+RUSHB,"Rush Enterprises, Inc.",30.62,1215150046,NAN,Consumer Durables,Automotive Aftermarket,4/26/17
+CSFL,"CenterState Banks, Inc.",23.74,1212280655,NAN,Finance,Major Banks,4/26/17
+AOBC,American Outdoor Brands Corporation,21.16,1210352000,NAN,Capital Goods,Ordnance And Accessories,4/25/17
+BNCL,"Beneficial Bancorp, Inc.",15.85,1207715809,NAN,Finance,Savings Institutions,4/23/17
+CNSL,"Consolidated Communications Holdings, Inc.",23.86,1207455438,2005,Public Utilities,Telecommunications Equipment,4/26/17
+LABL,Multi-Color Corporation,70.95,1202348641,1987,Miscellaneous,Publishing,4/23/17
+CORT,Corcept Therapeutics Incorporated,10.62,1199448192,2004,Health Care,Major Pharmaceuticals,4/26/17
+AXDX,"Accelerate Diagnostics, Inc.",23.05,1198354379,NAN,Capital Goods,Biotechnology: Laboratory Analytical Instruments,4/24/17
+TILE,"Interface, Inc.",18.6,1197133367,NAN,Consumer Durables,Home Furnishings,4/24/17
+RGEN,Repligen Corporation,35.35,1196437506,1986,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+ETSY,"Etsy, Inc.",10.29,1194974809,2015,Miscellaneous,Business Services,4/26/17
+LOXO,"Loxo Oncology, Inc.",45.7,1194906749,2014,Health Care,Major Pharmaceuticals,4/23/17
+HYLS,First Trust High Yield Long/Short ETF,48.79,1188036598,NAN,NAN,NAN,4/26/17
+JRVR,"James River Group Holdings, Ltd.",40.41,1185000378,2014,Finance,Property-Casualty Insurers,4/25/17
+GIII,"G-III Apparel Group, LTD.",24.33,1183421978,1989,Consumer Non-Durables,Apparel,4/26/17
+BATRK,Liberty Media Corporation,23.93,1183325769,NAN,Consumer Services,Broadcasting,4/24/17
+SMCI,"Super Micro Computer, Inc.",24.45,1180834657,2007,Technology,Computer Manufacturing,4/24/17
+PRIM,Primoris Services Corporation,22.88,1179799375,NAN,Basic Industries,Water Supply,4/25/17
+SRCE,1st Source Corporation,43.81,1178169888,NAN,Finance,Major Banks,4/24/17
+ROCK,"Gibraltar Industries, Inc.",37.3,1177959886,1993,Capital Goods,Steel/Iron Ore,4/23/17
+MDXG,"MiMedx Group, Inc",10.74,1168950611,NAN,Health Care,Medical/Dental Instruments,4/26/17
+CTRE,"CareTrust REIT, Inc.",17.33,1166203374,NAN,Consumer Services,Real Estate Investment Trusts,4/26/17
+BSFT,"BroadSoft, Inc.",37.95,1158745224,2010,Technology,Computer Software: Prepackaged Software,4/23/17
+MEDP,"Medpace Holdings, Inc.",28.44,1158498025,2016,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/26/17
+AAXN,"Axon Enterprise, Inc.",22.04,1153455642,NAN,Capital Goods,Ordnance And Accessories,4/23/17
+STBA,"S&T Bancorp, Inc.",32.78,1144448894,NAN,Finance,Major Banks,4/26/17
+FMI,"Foundation Medicine, Inc.",32.3,1144017485,2013,Health Care,Medical Specialities,4/23/17
+LORL,"Loral Space and Communications, Inc.",36.85,1139871874,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/23/17
+FRTA,"Forterra, Inc.",17.73,1137809151,2016,Capital Goods,Building Materials,4/24/17
+ATNI,"ATN International, Inc.",69.95,1129277067,NAN,Public Utilities,Telecommunications Equipment,4/23/17
+WETF,"WisdomTree Investments, Inc.",8.22,1123037443,NAN,Finance,Investment Bankers/Brokers/Service,4/24/17
+STFC,State Auto Financial Corporation,26.65,1118931670,1991,Finance,Property-Casualty Insurers,4/25/17
+CVGW,"Calavo Growers, Inc.",63.7,1114750000,NAN,Consumer Non-Durables,Farming/Seeds/Milling,4/26/17
+DIOD,Diodes Incorporated,23.03,1113476388,NAN,Technology,Semiconductors,4/23/17
+VECO,Veeco Instruments Inc.,27.4,1111609862,1994,Technology,Industrial Machinery/Components,4/25/17
+SSYS,"Stratasys, Ltd.",21,1106609091,1994,Technology,Computer peripheral equipment,4/25/17
+TVTY,"Tivity Health, Inc.",28.2,1103394908,NAN,Health Care,Hospital/Nursing Management,4/24/17
+SODA,SodaStream International Ltd.,50.8,1102251339,2010,Consumer Durables,Consumer Electronics/Appliances,4/25/17
+XLRN,Acceleron Pharma Inc.,28.69,1101544173,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+PNK,"Pinnacle Entertainment, Inc.",19.41,1094900088,NAN,Consumer Services,Hotels/Resorts,4/23/17
+NWLI,"National Western Life Group, Inc.",300.91,1094158711,NAN,Finance,Life Insurance,4/24/17
+SNCR,"Synchronoss Technologies, Inc.",23.59,1093926567,2006,Technology,EDP Services,4/24/17
+ALDR,"Alder BioPharmaceuticals, Inc.",21.7,1093880074,2014,Health Care,Major Pharmaceuticals,4/24/17
+GBDC,"Golub Capital BDC, Inc.",19.8,1093693333,2010,NAN,NAN,4/26/17
+MB,"MINDBODY, Inc.",26.65,1089011289,2015,Technology,EDP Services,4/25/17
+IPAR,"Inter Parfums, Inc.",34.9,1087038606,NAN,Consumer Non-Durables,Package Goods/Cosmetics,4/24/17
+JOBS,"51job, Inc.",40.52,1085667393,2004,Technology,Diversified Commercial Services,4/26/17
+UFCS,"United Fire Group, Inc",42.67,1085622216,NAN,Finance,Property-Casualty Insurers,4/23/17
+ISLE,"Isle of Capri Casinos, Inc.",26.06,1077826459,NAN,Consumer Services,Hotels/Resorts,4/23/17
+AIMC,Altra Industrial Motion Corp.,36.75,1077122214,2006,Capital Goods,Industrial Machinery/Components,4/23/17
+APLP,"Archrock Partners, L.P.",16.4,1074525704,NAN,Public Utilities,Natural Gas Distribution,4/23/17
+BUSE,First Busey Corporation,28.05,1072397895,NAN,Finance,Major Banks,4/23/17
+PAHC,Phibro Animal Health Corporation,27.2,1072150560,2014,Health Care,Major Pharmaceuticals,4/23/17
+VGIT,Vanguard Intermediate -Term Government Bond ETF,64.81,1069442189,NAN,NAN,NAN,4/26/17
+VONG,Vanguard Russell 1000 Growth ETF,115.32,1061141313,NAN,NAN,NAN,4/26/17
+SAIA,"Saia, Inc.",41.6,1058575024,NAN,Transportation,Trucking Freight/Courier Services,4/23/17
+INSM,"Insmed, Inc.",17.01,1056078659,NAN,Health Care,Major Pharmaceuticals,4/23/17
+ANDE,"The Andersons, Inc.",37.1,1052012163,NAN,Consumer Services,Farming/Seeds/Milling,4/23/17
+MHLD,"Maiden Holdings, Ltd.",12.15,1051564627,NAN,Finance,Property-Casualty Insurers,4/26/17
+LKFN,Lakeland Financial Corporation,41.73,1050793073,NAN,Finance,Major Banks,4/23/17
+ABAX,"ABAXIS, Inc.",46.51,1048335400,1992,Capital Goods,Industrial Machinery/Components,4/25/17
+XNCR,"Xencor, Inc.",22.45,1045579565,2013,Health Care,Major Pharmaceuticals,4/26/17
+GHDX,"Genomic Health, Inc.",30.66,1044484715,2005,Health Care,Medical Specialities,4/24/17
+SAFT,"Safety Insurance Group, Inc.",68.55,1038574932,2002,Finance,Property-Casualty Insurers,4/24/17
+PEY,PowerShares High Yield Equity Dividend Achievers Portfolio,16.83,1034203500,NAN,NAN,NAN,4/26/17
+SONC,Sonic Corp.,24.35,1033211018,1991,Consumer Services,Restaurants,4/25/17
+CVCO,"Cavco Industries, Inc.",114.8,1032427166,NAN,Basic Industries,Homebuilding,4/26/17
+IPCC,Infinity Property and Casualty Corporation,93.25,1029360733,2003,Finance,Property-Casualty Insurers,4/26/17
+WIN,"Windstream Holdings, Inc.",5.55,1028044615,NAN,Public Utilities,Telecommunications Equipment,4/23/17
+SCSS,Select Comfort Corporation,24.57,1027140054,1998,Consumer Durables,Home Furnishings,4/25/17
+BRKL,"Brookline Bancorp, Inc.",14.55,1026655522,NAN,Finance,Savings Institutions,4/23/17
+GTLS,"Chart Industries, Inc.",33.44,1026199029,2006,Capital Goods,Metal Fabrications,4/26/17
+RAVN,"Raven Industries, Inc.",28.25,1019154317,NAN,Capital Goods,Specialty Chemicals,4/24/17
+FOLD,"Amicus Therapeutics, Inc.",7.13,1017743587,2007,Health Care,Major Pharmaceuticals,4/26/17
+CENX,Century Aluminum Company,11.64,1015670281,1996,Basic Industries,Aluminum,4/23/17
+SGYP,"Synergy Pharmaceuticals, Inc.",4.55,1015175716,NAN,Health Care,Major Pharmaceuticals,4/26/17
+VONV,Vanguard Russell 1000 Value ETF,98.92,1008984000,NAN,NAN,NAN,4/25/17
+SPSC,"SPS Commerce, Inc.",58.65,1008810850,2010,Technology,Computer Software: Prepackaged Software,4/23/17
+LTRPB,"Liberty TripAdvisor Holdings, Inc.",13.4,1005035858,NAN,Technology,EDP Services,4/23/17
+FOXF,Fox Factory Holding Corp.,26.7,993531510.6,2013,Consumer Non-Durables,Motor Vehicles,4/25/17
+CHRS,"Coherus BioSciences, Inc.",19.35,992423322.5,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+TTS,"Tile Shop Hldgs, Inc.",19.15,988316582.2,NAN,Consumer Services,Home Furnishings,4/23/17
+LTRPA,"Liberty TripAdvisor Holdings, Inc.",13.15,986285189.4,NAN,Technology,EDP Services,4/25/17
+IPXL,"Impax Laboratories, Inc.",13.35,985329243.9,NAN,Health Care,Major Pharmaceuticals,4/24/17
+USCR,"U S Concrete, Inc.",61.95,984392252.6,NAN,Capital Goods,Building Materials,4/23/17
+AIMT,"Aimmune Therapeutics, Inc.",19.57,983380288.3,2015,Health Care,Major Pharmaceuticals,4/25/17
+ECOL,"US Ecology, Inc.",45.1,983131156.7,NAN,Public Utilities,Environmental Services,4/25/17
+CPLA,Capella Education Company,84.85,981497538.6,2006,Consumer Services,Other Consumer Services,4/23/17
+FTA,First Trust Large Cap Value AlphaDEX Fund,48.49,979498097,NAN,NAN,NAN,4/23/17
+GOGO,Gogo Inc.,11.29,974283025.5,2013,Consumer Services,Telecommunications Equipment,4/25/17
+IRDM,Iridium Communications Inc,10,973807830,NAN,Consumer Durables,Telecommunications Equipment,4/26/17
+VTWO,Vanguard Russell 2000 ETF,107.25,973293750,NAN,NAN,NAN,4/24/17
+NRCIB,National Research Corporation,39.74,971913470.4,NAN,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/25/17
+ZIOP,ZIOPHARM Oncology Inc,7.33,970320991.1,NAN,Health Care,Major Pharmaceuticals,4/25/17
+ATSG,"Air Transport Services Group, Inc",16.27,969489422.2,NAN,Transportation,Air Freight/Delivery Services,4/25/17
+PPBI,Pacific Premier Bancorp Inc,34.7,969156356.6,NAN,Finance,Major Banks,4/23/17
+EIGI,"Endurance International Group Holdings, Inc.",6.8,966552544,2013,Technology,Computer Software: Prepackaged Software,4/25/17
+CAFD,8point3 Energy Partners LP,12.21,965529034.5,2015,Public Utilities,Electric Utilities: Central,4/23/17
+UEIC,Universal Electronics Inc.,67,964134757,1993,Consumer Non-Durables,Consumer Electronics/Appliances,4/24/17
+STBZ,State Bank Financial Corporation.,24.78,963183608.1,NAN,Finance,Major Banks,4/24/17
+EBSB,"Meridian Bancorp, Inc.",17.9,959936742.9,NAN,Finance,Major Banks,4/24/17
+VWOB,Vanguard Emerging Markets Government Bond ETF,79.86,959186081.7,NAN,NAN,NAN,4/25/17
+CHCO,City Holding Company,61.34,955984513.4,NAN,Finance,Major Banks,4/26/17
+SLRC,Solar Capital Ltd.,22.56,953126724,2010,NAN,NAN,4/25/17
+MNTA,"Momenta Pharmaceuticals, Inc.",13.25,952052276.5,2004,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+LHCG,LHC Group,52.35,950334992.1,2005,Health Care,Medical/Nursing Services,4/23/17
+FPRX,"Five Prime Therapeutics, Inc.",33,949316610,2013,Health Care,Major Pharmaceuticals,4/25/17
+EXXI,"Energy XXI Gulf Coast, Inc.",28.54,947858892.8,NAN,Energy,Oil & Gas Production,4/25/17
+HOLI,"Hollysys Automation Technologies, Ltd.",15.71,946678300.3,NAN,Energy,Industrial Machinery/Components,4/26/17
+SASR,"Sandy Spring Bancorp, Inc.",39.2,945918226.4,NAN,Finance,Major Banks,4/23/17
+GOGL,Golden Ocean Group Limited,8.18,945892811.2,NAN,Consumer Services,Marine Transportation,4/25/17
+ENSG,"The Ensign Group, Inc.",18.55,944165078.9,2007,Health Care,Hospital/Nursing Management,4/26/17
+SCSC,"ScanSource, Inc.",37.25,940660914.5,NAN,Technology,Retail: Computer Software & Peripheral Equipment,4/24/17
+EFSC,Enterprise Financial Services Corporation,40.1,940065342.6,NAN,Finance,Major Banks,4/26/17
+CSII,"Cardiovascular Systems, Inc.",28.8,938963577.6,1981,Health Care,Medical/Dental Instruments,4/24/17
+SBCF,Seacoast Banking Corporation of Florida,23.02,937596681.1,NAN,Finance,Major Banks,4/23/17
+FTXO,First Trust Nasdaq Bank ETF,24.71,930331549.4,NAN,NAN,NAN,4/25/17
+SNHY,Sun Hydraulics Corporation,34.52,929982573.5,1997,Capital Goods,Metal Fabrications,4/23/17
+PATK,"Patrick Industries, Inc.",60.2,927645037.2,NAN,Basic Industries,Forest Products,4/26/17
+HURN,Huron Consulting Group Inc.,41.95,926621971.8,2004,Consumer Services,Professional Services,4/24/17
+ADTN,"ADTRAN, Inc.",19.1,922631688.4,1994,Public Utilities,Telecommunications Equipment,4/25/17
+NVCR,NovoCure Limited,10.45,920551660.6,2015,Health Care,Medical/Dental Instruments,4/23/17
+HAFC,Hanmi Financial Corporation,28.45,920518754.6,NAN,Finance,Major Banks,4/25/17
+SBSI,"Southside Bancshares, Inc.",31.9,909845132.9,NAN,Finance,Major Banks,4/26/17
+NOVT,Novanta Inc.,26.4,909727816.8,NAN,Miscellaneous,Industrial Machinery/Components,4/26/17
+TRS,TriMas Corporation,19.9,909668521.4,2007,Capital Goods,Industrial Specialties,4/26/17
+TCPC,TCP Capital Corp.,17.14,909138166,2012,NAN,NAN,4/24/17
+HIMX,"Himax Technologies, Inc.",8.4,906879363.6,2006,Technology,Semiconductors,4/24/17
+CFNL,Cardinal Financial Corporation,27.39,906168787.9,1998,Finance,Major Banks,4/24/17
+SPWR,SunPower Corporation,6.52,904323471.9,2005,Technology,Semiconductors,4/23/17
+BJRI,"BJ&#39;s Restaurants, Inc.",41.25,901669147.5,NAN,Consumer Services,Restaurants,4/26/17
+FIVN,"Five9, Inc.",16.46,896108933.5,2014,Technology,EDP Services,4/24/17
+MGI,"Moneygram International, Inc.",16.51,893393396.1,NAN,Miscellaneous,Business Services,4/25/17
+EUFN,iShares MSCI Europe Financials Sector Index Fund,19.56,891936000,NAN,NAN,NAN,4/25/17
+ALOG,Analogic Corporation,71.2,889230256.8,1972,Capital Goods,Electrical Products,4/25/17
+FLXN,"Flexion Therapeutics, Inc.",27.97,887539117.3,2014,Health Care,Major Pharmaceuticals,4/25/17
+ATRO,Astronics Corporation,30.5,887480429.5,NAN,Capital Goods,Military/Government/Technical,4/24/17
+WEB,"Web.com Group, Inc.",17.35,887003742.3,NAN,Technology,Computer Software: Prepackaged Software,4/26/17
+MDIV,First Trust Multi-Asset Diversified Income Index Fund,19.53,885685539.1,NAN,NAN,NAN,4/26/17
+SGRY,"Surgery Partners, Inc.",18.2,884978021.2,2015,Health Care,Hospital/Nursing Management,4/25/17
+WIRE,Encore Wire Corporation,42.65,884796897.2,1992,Capital Goods,Metal Fabrications,4/24/17
+IMKTA,"Ingles Markets, Incorporated",43.55,882313244.8,1987,Consumer Services,Food Chains,4/25/17
+EPAY,"Bottomline Technologies, Inc.",21.74,881756508,1999,Technology,Computer Software: Prepackaged Software,4/25/17
+IPHS,"Innophos Holdings, Inc.",45.22,880973417.2,2006,Consumer Durables,Specialty Chemicals,4/23/17
+ESPR,"Esperion Therapeutics, Inc.",39.03,880362163.1,2013,Health Care,Major Pharmaceuticals,4/25/17
+EPZM,"Epizyme, Inc.",15.1,879555762.6,2013,Health Care,Major Pharmaceuticals,4/23/17
+ATRI,Atrion Corporation,477.8,877625429,NAN,Health Care,Medical/Dental Instruments,4/26/17
+SHLM,"A. Schulman, Inc.",29.75,877240005.3,1972,Basic Industries,Major Chemicals,4/23/17
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,129.91,876892500,NAN,NAN,NAN,4/26/17
+KTWO,"K2M Group Holdings, Inc.",20.64,876475866.2,2014,Health Care,Medical/Dental Instruments,4/25/17
+GPRE,"Green Plains, Inc.",22.65,875905148.9,NAN,Basic Industries,Major Chemicals,4/23/17
+LBAI,"Lakeland Bancorp, Inc.",18.5,875566964,NAN,Finance,Major Banks,4/25/17
+SYBT,"Stock Yards Bancorp, Inc.",38.65,875115077.9,NAN,Finance,Major Banks,4/23/17
+AMBC,"Ambac Financial Group, Inc.",19.32,873823217.4,NAN,Finance,Property-Casualty Insurers,4/23/17
+ERI,"Eldorado Resorts, Inc.",18.5,871720000,NAN,Consumer Services,Hotels/Resorts,4/24/17
+MGPI,"MGP Ingredients, Inc.",51.94,867852059.5,NAN,Consumer Non-Durables,Beverages (Production/Distribution),4/25/17
+QSII,"Quality Systems, Inc.",13.78,860384106.1,1982,Technology,EDP Services,4/25/17
+APPF,"AppFolio, Inc.",25.4,858226655.4,2015,Technology,Computer Software: Prepackaged Software,4/23/17
+DENN,Denny&#39;s Corporation,12.17,857776978.2,NAN,Consumer Services,Restaurants,4/26/17
+BEAT,"BioTelemetry, Inc.",30.45,855243912.6,2008,Health Care,Medical Specialities,4/24/17
+GLPG,Galapagos NV,89.96,851492360.7,2015,Health Care,Major Pharmaceuticals,4/24/17
+NFBK,"Northfield Bancorp, Inc.",17.41,850371933.4,NAN,Finance,Savings Institutions,4/23/17
+BNFT,"Benefitfocus, Inc.",27.65,849256671.6,2013,Technology,Computer Software: Prepackaged Software,4/24/17
+INDY,iShares S&P India Nifty 50 Index Fund,32.35,849187500,NAN,NAN,NAN,4/25/17
+STRA,"Strayer Education, Inc.",75.97,847816387.5,1996,Consumer Services,Other Consumer Services,4/23/17
+AAOI,"Applied Optoelectronics, Inc.",45.3,846107873.4,2013,Technology,Semiconductors,4/25/17
+OCFC,OceanFirst Financial Corp.,26.05,843829444.3,NAN,Finance,Savings Institutions,4/25/17
+CFCO,CF Corporation,10.02,841680000,2016,Finance,Business Services,4/26/17
+ACRS,"Aclaris Therapeutics, Inc.",32.25,841365928.5,2015,Health Care,Major Pharmaceuticals,4/26/17
+HLNE,Hamilton Lane Incorporated,18.62,838007269.8,2017,Finance,Investment Managers,4/26/17
+MITL,Mitel Networks Corporation,6.8,834129194.4,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/25/17
+VRNS,"Varonis Systems, Inc.",30.45,825737436.3,2014,Technology,Computer Software: Prepackaged Software,4/26/17
+LSCC,Lattice Semiconductor Corporation,6.78,825454545.2,NAN,Technology,Semiconductors,4/25/17
+WASH,"Washington Trust Bancorp, Inc.",47.95,824311806.5,NAN,Finance,Major Banks,4/23/17
+VRTU,Virtusa Corporation,27.46,822633554.1,2007,Technology,EDP Services,4/23/17
+HEES,"H&E Equipment Services, Inc.",23.12,822489445.4,2006,NAN,NAN,4/24/17
+GLBL,"TerraForm Global, Inc.",4.7,819477871.8,2015,Public Utilities,Electric Utilities: Central,4/23/17
+WING,Wingstop Inc.,28.35,818311977,2015,Consumer Services,Restaurants,4/26/17
+UBNK,"United Financial Bancorp, Inc. ",16.1,818156227.7,NAN,Finance,Banks,4/24/17
+AMAG,"AMAG Pharmaceuticals, Inc.",23.4,817583083.2,NAN,Health Care,Major Pharmaceuticals,4/23/17
+CRESY,Cresud S.A.C.I.F. y A.,20.9,817150708,1997,Finance,Real Estate,4/26/17
+AMRN,Amarin Corporation plc,3.11,816782979.1,NAN,Health Care,Major Pharmaceuticals,4/23/17
+TYPE,Monotype Imaging Holdings Inc.,19.5,815822241,2007,Technology,EDP Services,4/24/17
+CHY,Calamos Convertible and High Income Fund,11.24,815316003.6,2003,NAN,NAN,4/25/17
+FOSL,"Fossil Group, Inc.",16.8,810938251.2,1993,Consumer Non-Durables,Consumer Specialties,4/24/17
+JBSS,"John B. Sanfilippo & Son, Inc.",71.41,804466784.2,1991,Consumer Non-Durables,Specialty Foods,4/23/17
+DBVT,DBV Technologies S.A.,32.68,803234595.8,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+KELYB,"Kelly Services, Inc.",21,803122992,NAN,Technology,Professional Services,4/24/17
+SWIR,"Sierra Wireless, Inc.",25,802425850,NAN,Technology,Radio And Television Broadcasting And Communications Equipment,4/25/17
+PID,PowerShares International Dividend Achievers Portfolio,14.93,799501500,NAN,NAN,NAN,4/24/17
+HRTX,"Heron Therapeutics, Inc.  ",14.85,795581829.9,NAN,Health Care,Major Pharmaceuticals,4/26/17
+INNL,Innocoll Holdings,1.995,795250096,2014,Health Care,Major Pharmaceuticals,4/25/17
+GLRE,"Greenlight Reinsurance, Ltd.",21.25,794034448.8,2007,Finance,Property-Casualty Insurers,4/23/17
+LMNX,Luminex Corporation,18.05,793082073.3,2000,Health Care,Medical/Dental Instruments,4/23/17
+INSY,"Insys Therapeutics, Inc.",11.02,792969919.9,2013,Health Care,Major Pharmaceuticals,4/26/17
+ICFI,"ICF International, Inc.",41.6,791125088,2006,Consumer Services,Professional Services,4/25/17
+CRVL,CorVel Corp.,41.3,789985656.6,NAN,Finance,Specialty Insurers,4/23/17
+NXEO,"Nexeo Solutions, Inc.",8.84,789296514.2,NAN,Consumer Durables,Specialty Chemicals,4/24/17
+DEPO,"Depomed, Inc.",12.69,788043378.3,NAN,Health Care,Major Pharmaceuticals,4/23/17
+ARII,"American Railcar Industries, Inc.",41.22,786637451.2,2006,Capital Goods,Railroads,4/26/17
+ASPS,Altisource Portfolio Solutions S.A.,42.61,785173149.1,NAN,Consumer Services,Other Consumer Services,4/23/17
+RRD,R.R. Donnelley & Sons Company,11.21,784800441.6,NAN,Miscellaneous,Publishing,4/23/17
+SKYY,First Trust Cloud Computing ETF,37.97,784080575.9,NAN,NAN,NAN,4/25/17
+MGRC,McGrath RentCorp,32.74,784048909.4,1984,Technology,Diversified Commercial Services,4/23/17
+ECPG,Encore Capital Group Inc,30.6,783304675.2,NAN,Finance,Finance Companies,4/24/17
+KELYA,"Kelly Services, Inc.",20.48,783236137,NAN,Technology,Professional Services,4/25/17
+UTEK,"Ultratech, Inc.",28.97,782839246.7,1993,Technology,Industrial Machinery/Components,4/23/17
+ASND,Ascendis Pharma A/S,27.91,782490202.5,2015,Health Care,Major Pharmaceuticals,4/26/17
+CASH,"Meta Financial Group, Inc.",83.65,781772991.3,1993,Finance,Savings Institutions,4/23/17
+ACOR,"Acorda Therapeutics, Inc.",16.8,779651880,2006,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+MTGE,MTGE Investment Corp.,16.95,776270794.7,2011,Consumer Services,Real Estate Investment Trusts,4/26/17
+MTSC,MTS Systems Corporation,46.25,774241233.8,NAN,Capital Goods,Industrial Machinery/Components,4/25/17
+CRAY,Cray Inc,19,773991182,NAN,Technology,Computer Manufacturing,4/25/17
+IRTC,"iRhythm Technologies, Inc.",34.93,773791610.4,2016,Health Care,Medical/Dental Instruments,4/26/17
+CRSP,CRISPR Therapeutics AG,19.41,772713089.9,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/26/17
+KBWB,PowerShares KBW Bank Portfolio,45.42,772140000,NAN,NAN,NAN,4/26/17
+CHI,Calamos Convertible Opportunities and Income Fund,11.02,771372306.7,2002,NAN,NAN,4/23/17
+CTBI,"Community Trust Bancorp, Inc.",43.55,769130801.4,NAN,Finance,Major Banks,4/23/17
+FORM,"FormFactor, Inc.",10.7,766892026.4,2003,Technology,Semiconductors,4/25/17
+PHO,PowerShares Water Resources Portfolio,25.62,766038000,NAN,NAN,NAN,4/25/17
+MSFG,"MainSource Financial Group, Inc.",31.66,764131323,NAN,Finance,Major Banks,4/26/17
+EXTR,"Extreme Networks, Inc.",7.05,762604943.7,1999,Technology,Computer Communications Equipment,4/24/17
+NCMI,"National CineMedia, Inc.",12.09,760049915.8,2007,Consumer Services,Advertising,4/26/17
+ORIT,Oritani Financial Corp.,16.55,759050292.3,NAN,Finance,Major Banks,4/24/17
+HSTM,"HealthStream, Inc.",23.83,757249270,2000,Technology,"Computer Software: Programming, Data Processing",4/23/17
+RRGB,"Red Robin Gourmet Burgers, Inc.",58.85,757074883.4,2002,Consumer Services,Restaurants,4/25/17
+SBLK,Star Bulk Carriers Corp.,12,756825348,NAN,Transportation,Marine Transportation,4/23/17
+TCBK,TriCo Bancshares,33.05,755891639.7,NAN,Finance,Major Banks,4/25/17
+ONEQ,Fidelity Nasdaq Composite Index Tracking Stock,228.97,755601000,NAN,NAN,NAN,4/23/17
+CNXN,"PC Connection, Inc.",28.21,754607965,NAN,Consumer Services,Catalog/Specialty Distribution,4/25/17
+EDIT,"Editas Medicine, Inc.",20.48,752019374.1,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/23/17
+QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund,20.5,749570487,NAN,NAN,NAN,4/25/17
+AKAO,"Achaogen, Inc.",20.94,749265950.2,2014,Health Care,Major Pharmaceuticals,4/25/17
+VRTS,"Virtus Investment Partners, Inc.",106.7,745741664.8,NAN,Finance,Investment Managers,4/26/17
+NYNY,"Empire Resorts, Inc.",23.9,745375203.3,NAN,Consumer Services,Restaurants,4/25/17
+QIWI,QIWI plc,16.55,745142350.9,2013,Miscellaneous,Business Services,4/23/17
+ASNA,"Ascena Retail Group, Inc.",3.82,744664019.5,NAN,Consumer Services,Clothing/Shoe/Accessory Stores,4/23/17
+MERC,Mercer International Inc.,11.45,743948326.9,NAN,Basic Industries,Paper,4/24/17
+AEGN,Aegion Corp,21.97,742202403.8,NAN,Basic Industries,Water Supply,4/25/17
+QDEL,Quidel Corporation,22.42,738752855.6,NAN,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/24/17
+LOB,"Live Oak Bancshares, Inc.",21.35,738162223.1,2015,Finance,Major Banks,4/23/17
+TUSK,"Mammoth Energy Services, Inc.",19.65,736875000,2016,Energy,Oilfield Services/Equipment,4/23/17
+MMLP,Martin Midstream Partners L.P.,19.15,736136762.3,2002,Energy,Oil Refining/Marketing,4/25/17
+DCOM,"Dime Community Bancshares, Inc.",19.6,734975911.6,NAN,Finance,Savings Institutions,4/25/17
+PLAB,"Photronics, Inc.",10.65,731959302.5,1987,Technology,Semiconductors,4/26/17
+MRTN,"Marten Transport, Ltd.",22.4,731679536,1986,Transportation,Trucking Freight/Courier Services,4/26/17
+CSIQ,Canadian Solar Inc.,12.72,730607976.5,2006,Technology,Semiconductors,4/23/17
+NMIH,NMI Holdings Inc,12.2,729191328.2,2013,Finance,Property-Casualty Insurers,4/23/17
+SP,SP Plus Corporation,32.4,728061728.4,NAN,Consumer Services,Rental/Leasing Companies,4/26/17
+BOJA,"Bojangles&#39;, Inc.",19.9,727597909.1,2015,Consumer Services,Restaurants,4/23/17
+VSAR,"Versartis, Inc.",20.75,727211243.8,2014,Health Care,Major Pharmaceuticals,4/23/17
+FORR,"Forrester Research, Inc.",39.7,724364215,1996,Consumer Services,Diversified Commercial Services,4/24/17
+FTSM,First Trust Enhanced Short Maturity ETF,59.99,722862942.8,NAN,NAN,NAN,4/24/17
+CNOB,"ConnectOne Bancorp, Inc.",22.6,722597845.6,NAN,Finance,Major Banks,4/24/17
+OSUR,"OraSure Technologies, Inc.",12.35,721314680.5,NAN,Health Care,Medical/Dental Instruments,4/24/17
+CEVA,"CEVA, Inc.",33.45,719966393.6,NAN,Technology,Semiconductors,4/25/17
+HSKA,Heska Corporation,101.64,719210738.4,1997,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/24/17
+TRST,TrustCo Bank Corp NY,7.5,718972072.5,NAN,Finance,Major Banks,4/25/17
+GBNK,Guaranty Bancorp,24.4,717720241.6,NAN,Finance,Major Banks,4/25/17
+HFWA,Heritage Financial Corporation,23.9,715956621.6,NAN,Finance,Banks,4/26/17
+BCOR,"Blucora, Inc.",17,715456645,NAN,Technology,EDP Services,4/25/17
+HMST,"HomeStreet, Inc.",26.6,713858188.4,2012,Finance,Major Banks,4/23/17
+FFIC,Flushing Financial Corporation,24.69,711340010,NAN,Finance,Major Banks,4/25/17
+UVSP,Univest Corporation of Pennsylvania,26.7,711290109.3,NAN,Finance,Major Banks,4/26/17
+NANO,Nanometrics Incorporated,28.03,707111688.8,1984,Capital Goods,Industrial Machinery/Components,4/24/17
+PDFS,"PDF Solutions, Inc.",22.04,706423854,2001,Technology,EDP Services,4/26/17
+FBNC,First Bancorp,28.62,705485175.1,1987,Finance,Major Banks,4/25/17
+PVAC,Penn Virginia Corporation,46.96,704025165.3,NAN,Energy,Oil & Gas Production,4/25/17
+BGNE,"BeiGene, Ltd.",37.9,700923395.9,2016,Health Care,Major Pharmaceuticals,4/23/17
+ITRN,Ituran Location and Control Ltd.,29.75,698394072.3,2005,Consumer Non-Durables,Electronic Components,4/23/17
+RPD,"Rapid7, Inc.",16.3,695042986.2,2015,Technology,Computer Software: Prepackaged Software,4/26/17
+NYMT,"New York Mortgage Trust, Inc.",6.21,694546495.6,NAN,Consumer Services,Real Estate Investment Trusts,4/24/17
+RTRX,"Retrophin, Inc.",18.19,692922274.8,NAN,Health Care,Major Pharmaceuticals,4/23/17
+JNCE,"Jounce Therapeutics, Inc.",21.53,692501017.6,2017,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),4/25/17
+PTXP,"PennTex Midstream Partners, LP",17,692142352,2015,Public Utilities,Natural Gas Distribution,4/24/17
+RBCAA,"Republic Bancorp, Inc.",33.13,690890535.3,1998,Finance,Major Banks,4/23/17
+NDRM,NeuroDerm Ltd.,26.15,688742308.7,2014,Health Care,Major Pharmaceuticals,4/24/17
+CASS,"Cass Information Systems, Inc",61.46,688181510,NAN,Miscellaneous,Business Services,4/26/17
+PFBC,Preferred Bank,48.34,688018724.4,NAN,NAN,NAN,4/25/17
+FNX,First Trust Mid Cap Core AlphaDEX Fund,56.83,687643113.7,NAN,NAN,NAN,4/23/17
+NNBR,"NN, Inc.",25.05,686068924.1,1994,Capital Goods,Metal Fabrications,4/24/17
+SCWX,SecureWorks Corp.,8.5,684812266.5,2016,Technology,Computer Software: Prepackaged Software,4/23/17
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,31.12,681683600,NAN,NAN,NAN,4/23/17
+AMPH,"Amphastar Pharmaceuticals, Inc.",14.8,679469716.8,2014,Health Care,Major Pharmaceuticals,4/26/17
+KNSL,"Kinsale Capital Group, Inc.",32.39,679176419.7,2016,Finance,Property-Casualty Insurers,4/24/17
+ORBC,ORBCOMM Inc.,9.5,678503319,2006,Consumer Services,Telecommunications Equipment,4/23/17
+OMER,Omeros Corporation,15.42,675737290.9,2009,Health Care,Major Pharmaceuticals,4/25/17
+BBH,VanEck Vectors Biotech ETF,118.95,671651531.9,NAN,NAN,NAN,4/24/17
+RDWR,Radware Ltd.,15.19,670955971,1999,Miscellaneous,Business Services,4/25/17
+CUNB,CU Bancorp (CA),37.65,670438143.3,NAN,Finance,Major Banks,4/26/17
+COBZ,CoBiz Financial Inc.,16.1,669359512.5,1998,Finance,Major Banks,4/24/17
+DLTH,Duluth Holdings Inc.,20.62,668946225,2015,Consumer Services,Clothing/Shoe/Accessory Stores,4/26/17
+OPB,Opus Bank,19.45,666690003.5,2014,NAN,NAN,4/25/17
+KANG,"iKang Healthcare Group, Inc.",14.38,665549425,2014,Health Care,Medical/Nursing Services,4/24/17
+GSBC,"Great Southern Bancorp, Inc.",47.5,665314687.5,1989,Finance,Major Banks,4/25/17
+AMRI,"Albany Molecular Research, Inc.",15.45,663433428.8,1999,Health Care,Biotechnology: Commercial Physical & Biological Resarch,4/26/17
+LE,"Lands&#39; End, Inc.",20.7,663007731.3,NAN,Consumer Services,Clothing/Shoe/Accessory Stores,4/25/17
+OFIX,Orthofix International N.V.,36.94,662945150.7,1992,Health Care,Medical/Dental Instruments,4/26/17
+HDP,"Hortonworks, Inc.",10.62,662267586.1,2014,Technology,Computer Software: Prepackaged Software,4/24/17
+GBLI,Global Indemnity Limited,37.6,660628766.4,NAN,Finance,Property-Casualty Insurers,4/23/17
+VONE,Vanguard Russell 1000 ETF,106.89,660045750,NAN,NAN,NAN,4/24/17
+MGNX,"MacroGenics, Inc.",18.82,658281650.2,2013,Health Care,Major Pharmaceuticals,4/23/17
+MYRG,"MYR Group, Inc.",40.27,658206505.5,NAN,Basic Industries,Water Supply,4/25/17
+SEDG,"SolarEdge Technologies, Inc.",15.85,657388355.1,2015,Technology,Semiconductors,4/25/17
+TPIC,"TPI Composites, Inc.",19.47,656856722.6,2016,Energy,Industrial Machinery/Components,4/26/17
+INTL,INTL FCStone Inc.,35.22,656495023.9,NAN,Finance,Investment Bankers/Brokers/Service,4/25/17
+IIIN,"Insteel Industries, Inc.",34.57,656319608.5,NAN,Capital Goods,Steel/Iron Ore,4/25/17
+PI,"Impinj, Inc.",31.89,655795335.7,2016,Capital Goods,Industrial Machinery/Components,4/25/17
+BMTC,Bryn Mawr Bank Corporation,38.6,655020808.6,NAN,Finance,Major Banks,4/24/17
+SGBK,Stonegate Bank,45.78,653042223.5,NAN,NAN,NAN,4/25/17
+AFAM,Almost Family Inc,46.9,650986023.1,NAN,Health Care,Medical/Nursing Services,4/26/17
+LGIH,"LGI Homes, Inc.",30.07,649271109.2,2013,Capital Goods,Homebuilding,4/25/17
+FLWS,"1-800 FLOWERS.COM, Inc.",9.9,649133674.2,1999,Consumer Services,Other Specialty Stores,4/26/17
+TSC,"TriState Capital Holdings, Inc.",22.6,647237467.6,2013,Finance,Major Banks,4/25/17
+DHIL,"Diamond Hill Investment Group, Inc.",188.34,647182383.3,NAN,Finance,Investment Managers,4/23/17
+CHUBA,"CommerceHub, Inc.",15.01,645249324.6,NAN,Technology,Computer Software: Prepackaged Software,4/23/17
+CHUBK,"CommerceHub, Inc.",15,644819445,NAN,Technology,Computer Software: Prepackaged Software,4/26/17
+AVAV,"AeroVironment, Inc.",27.41,642911061.3,2007,Capital Goods,Aerospace,4/23/17
+GPP,Green Plains Partners LP,20.15,640776045,2015,Basic Industries,Major Chemicals,4/26/17
+ATRC,"AtriCure, Inc.",19.2,640103040,2005,Health Care,Medical/Dental Instruments,4/23/17
+CAC,Camden National Corporation,41.1,639647643.3,NAN,Finance,Major Banks,4/26/17
+ADRO,"Aduro Biotech, Inc.",9.4,639182243.4,2015,Health Care,Major Pharmaceuticals,4/24/17
+KTOS,"Kratos Defense & Security Solutions, Inc.",7.39,638760872.4,NAN,Capital Goods,Military/Government/Technical,4/23/17
+SPNS,Sapiens International Corporation N.V.,13.07,638615635.7,1992,Technology,Computer Software: Prepackaged Software,4/23/17
+UIHC,United Insurance Holdings Corp.,14.93,637256637.6,NAN,Finance,Property-Casualty Insurers,4/25/17
+BDGE,"Bridge Bancorp, Inc.",32.35,637108696.4,NAN,Finance,Major Banks,4/24/17
+RUTH,"Ruth&#39;s Hospitality Group, Inc.",20,636031960,2005,Consumer Services,Restaurants,4/24/17
+FRGI,"Fiesta Restaurant Group, Inc.",23.55,633141561.6,NAN,Consumer Services,Restaurants,4/24/17
+IMMU,"Immunomedics, Inc.",5.95,631173048.8,NAN,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/26/17
+RVNC,"Revance Therapeutics, Inc.",20.95,631048127.6,2014,Health Care,Major Pharmaceuticals,4/26/17
+ANIK,Anika Therapeutics Inc.,43.04,630056620.5,NAN,Health Care,Medical/Dental Instruments,4/26/17
+TGTX,"TG Therapeutics, Inc.",9.9,629922595.5,NAN,Health Care,Major Pharmaceuticals,4/25/17
+KBAL,"Kimball International, Inc.",16.89,628911310.8,NAN,Consumer Durables,Home Furnishings,4/24/17
+ARCB,ArcBest Corporation,24.55,628726015.6,NAN,Transportation,Trucking Freight/Courier Services,4/23/17
+EAGL,Double Eagle Acquisition Corp.,10.05,628125000,2015,Finance,Business Services,4/23/17
+KRNT,Kornit Digital Ltd.,18.65,624643760,2015,Capital Goods,Industrial Machinery/Components,4/24/17
+KERX,"Keryx Biopharmaceuticals, Inc.",5.79,623396533.1,NAN,Health Care,Major Pharmaceuticals,4/24/17
+CECO,Career Education Corporation,9.05,622270325.6,1998,Consumer Services,Other Consumer Services,4/25/17
+PSTB,Park Sterling Corporation,11.71,621355153.5,2010,Finance,Major Banks,4/23/17
+VNDA,Vanda Pharmaceuticals Inc.,13.95,618632712.5,2006,Health Care,Major Pharmaceuticals,4/23/17
+FLIC,The First of Long Island Corporation,25.85,617851681.2,NAN,Finance,Major Banks,4/25/17
+DXPE,"DXP Enterprises, Inc.",35.46,615183590,NAN,Capital Goods,Industrial Machinery/Components,4/24/17
+FSC,Fifth Street Finance Corp.,4.36,614588438.4,2008,NAN,NAN,4/25/17
+IGOV,iShares S&P/Citigroup International Treasury Bond Fund,92.2,613130000,NAN,NAN,NAN,4/23/17
+SPKE,"Spark Energy, Inc.",35.4,610264918.8,2014,Public Utilities,Power Generation,4/24/17
+NEO,"NeoGenomics, Inc.",7.74,610089462.7,NAN,Health Care,Precision Instruments,4/23/17
+VICR,Vicor Corporation,15.6,609640122,NAN,Capital Goods,Industrial Machinery/Components,4/26/17
+FTC,First Trust Large Cap Growth AlphaDEX Fund,51.63,609234103.3,NAN,NAN,NAN,4/25/17
+FARM,Farmer Brothers Company,36.15,608159619.9,NAN,Consumer Non-Durables,Packaged Foods,4/24/17
+TCX,Tucows Inc.,57.85,605655137.1,NAN,Technology,EDP Services,4/26/17
+GNBC,"Green Bancorp, Inc.",16.25,604332738.8,2014,Finance,Major Banks,4/23/17
+SNC,"State National Companies, Inc.",14.4,603711936,NAN,Finance,Property-Casualty Insurers,4/25/17
+MSEX,Middlesex Water Company,37.04,603659251.8,NAN,Public Utilities,Water Supply,4/23/17
+HONE,"HarborOne Bancorp, Inc.",18.79,603551335.2,2016,Finance,Major Banks,4/24/17
+HIBB,"Hibbett Sports, Inc.",28.2,601831061.4,1996,Consumer Services,Other Specialty Stores,4/23/17
+PRFT,"Perficient, Inc.",16.96,600720995.2,1999,Technology,EDP Services,4/23/17
+PDBC,PowerShares Optimum Yield Diversified Commodity Strategy No K-,17.03,599524120,NAN,NAN,NAN,4/24/17
+ITCI,Intra-Cellular Therapies Inc.,13.78,598193617.1,NAN,Health Care,Major Pharmaceuticals,4/24/17
+RPXC,RPX Corporation,12.28,595901490.4,2011,Miscellaneous,Multi-Sector Companies,4/25/17
+BCOM,B Communications Ltd.,19.9346,595826156.5,NAN,Consumer Services,Telecommunications Equipment,4/26/17
+ANIP,"ANI Pharmaceuticals, Inc.",51.22,594180171,NAN,Health Care,Major Pharmaceuticals,4/23/17
+GOOD,Gladstone Commercial Corporation,22.88,593628326.7,2003,Consumer Services,Real Estate,4/24/17
+PGNX,Progenics Pharmaceuticals Inc.,8.45,593106336.6,1997,Health Care,Major Pharmaceuticals,4/25/17
+CTWS,"Connecticut Water Service, Inc.",53.33,587371073.7,NAN,Public Utilities,Water Supply,4/26/17
+FINL,"The Finish Line, Inc.",14.48,587310407.3,1992,Consumer Services,Clothing/Shoe/Accessory Stores,4/25/17
+PRSC,The Providence Service Corporation,43.41,586053926.8,2003,Consumer Services,Transportation Services,4/26/17
+ENTA,"Enanta Pharmaceuticals, Inc.",30.69,584376484.2,2013,Health Care,Major Pharmaceuticals,4/24/17
+GNMK,"GenMark Diagnostics, Inc.",12.42,584375928.8,2010,Health Care,Medical/Dental Instruments,4/24/17
+CPAA,Conyers Park Acquisition Corp.,11.6,583625000,2016,Finance,Business Services,4/24/17
+XBKS,"Xenith Bankshares, Inc.",25.2,583036624.8,NAN,Finance,Major Banks,4/23/17
+SQQQ,ProShares UltraPro Short QQQ,38.76,582767956.7,NAN,NAN,NAN,4/26/17
+UEPS,"Net 1 UEPS Technologies, Inc.",11.08,582025142.6,2005,Finance,Investment Bankers/Brokers/Service,4/26/17
+STKL,"SunOpta, Inc.",6.75,580437609.8,NAN,Consumer Services,Farming/Seeds/Milling,4/25/17
+CWST,"Casella Waste Systems, Inc.",13.91,580422500.5,1997,Public Utilities,Environmental Services,4/25/17
+PLYA,Playa Hotels & Resorts N.V.,10.3,579375000,NAN,Consumer Services,Hotels/Resorts,4/23/17
+EMCI,EMC Insurance Group Inc.,27.1,576399872.8,1982,Finance,Property-Casualty Insurers,4/26/17
+SND,"Smart Sand, Inc.",14.18,575561109.4,2016,NAN,NAN,4/23/17
+ACIU,AC Immune SA,10.1,574914644.2,2016,Health Care,Major Pharmaceuticals,4/23/17
+TEDU,"Tarena International, Inc.",19,574609761,2014,Consumer Services,Other Consumer Services,4/25/17
+CTMX,"CytomX Therapeutics, Inc.",15.68,573391367.4,2015,Health Care,Major Pharmaceuticals,4/26/17
+KFRC,"Kforce, Inc.",21.35,572397172.2,1995,Technology,Professional Services,4/25/17
+FRED,"Fred&#39;s, Inc.",15.03,569784504.4,1992,Consumer Services,Department/Specialty Retail Stores,4/25/17
+QTNA,"Quantenna Communications, Inc.",17.2,568909780,2016,Technology,Semiconductors,4/26/17
+CARA,"Cara Therapeutics, Inc.",17.53,568336992.1,2014,Health Care,Major Pharmaceuticals,4/24/17
+PEBO,Peoples Bancorp Inc.,31.1,568079099.9,NAN,Finance,Major Banks,4/23/17
+ARDX,"Ardelyx, Inc.",12,567931320,2014,Health Care,Major Pharmaceuticals,4/26/17
+HCKT,"The Hackett Group, Inc.",19.4,566230807,NAN,Consumer Services,Professional Services,4/24/17
+VIVO,Meridian Bioscience Inc.,13.4,565512119.8,1986,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,4/25/17
+EVBG,"Everbridge, Inc.",20.74,564870180.9,2016,NAN,NAN,4/24/17
+RCII,Rent-A-Center Inc.,10.56,560649936,1995,Technology,Diversified Commercial Services,4/26/17
+CACB,Cascade Bancorp,7.34,559778105,NAN,Finance,Major Banks,4/24/17
+ANGO,"AngioDynamics, Inc.",15.19,558820307.4,2004,Health Care,Medical/Dental Instruments,4/26/17
+SALE,"RetailMeNot, Inc.",11.55,557913694.8,2013,Consumer Services,Advertising,4/24/17
+THFF,First Financial Corporation Indiana,45.55,556791812.5,NAN,Finance,Major Banks,4/23/17
+CAMP,CalAmp Corp.,15.72,556682645,1983,Technology,Radio And Television Broadcasting And Communications Equipment,4/24/17
+CMCO,Columbus McKinnon Corporation,24.65,555135895.9,1996,Capital Goods,Construction/Ag Equipment/Trucks,4/24/17
+XBIT,XBiotech Inc.,15.78,554648253.4,2015,Health Care,Major Pharmaceuticals,4/23/17
+PNNT,PennantPark Investment Corporation,7.8,554274520.8,2007,NAN,NAN,4/25/17
+CSWI,"CSW Industrials, Inc.",34.95,553891689.2,NAN,Basic Industries,Home Furnishings,4/25/17
+XIV,VelocityShares Daily Inverse VIX Short Term ETN,62.76,553473097.1,NAN,Finance,Investment Bankers/Brokers/Service,4/23/17
+ECHO,"Echo Global Logistics, Inc.",19,552445919,2009,Transportation,Oil Refining/Marketing,4/26/17
+GTYH,"GTY Technology Holdings, Inc.",9.95,549240000,2016,Finance,Business Services,4/25/17
+HBNC,Horizon Bancorp (IN),24.73,548900032,NAN,Finance,Major Banks,4/24/17
+MPVD,Mountain Province Diamonds Inc.,3.425,547379503,NAN,Basic Industries,Precious Metals,4/24/17
+QADA,QAD Inc.,28.8,547268572.8,NAN,Technology,Computer Software: Prepackaged Software,4/24/17
+RUN,Sunrun Inc.,5.23,547263429.2,2015,Capital Goods,Industrial Specialties,4/23/17
+INWK,"InnerWorkings, Inc.",9.92,546740581.8,2006,Consumer Durables,Containers/Packaging,4/23/17
+STB,Student Transportation Inc,5.92,545654131.5,NAN,Transportation,Other Transportation,4/24/17
+FRAN,Francesca&#39;s Holdings Corporation,14.53,545475946.3,2011,Consumer Services,Clothing/Shoe/Accessory Stores,4/23/17
+ACLS,"Axcelis Technologies, Inc.",18.15,543270990.9,2000,Technology,Industrial Machinery/Components,4/25/17
+WVE,WAVE Life Sciences Ltd.,23,541479087,2015,Health Care,Major Pharmaceuticals,4/25/17
+LION,Fidelity Southern Corporation,20.47,539482551.3,NAN,Finance,Major Banks,4/24/17
+IFV,First Trust Dorsey Wright International Focus 5 ETF,18.78,538047037.6,NAN,NAN,NAN,4/23/17
+QCRH,"QCR Holdings, Inc.",40.85,537437224.3,NAN,Finance,Major Banks,4/25/17
+AUPH,Aurinia Pharmaceuticals Inc,6.83,536459174.1,NAN,Health Care,Major Pharmaceuticals,4/26/17
+ESND,Essendant Inc.,14.3,535863485.3,NAN,Consumer Services,Paper,4/23/17
+FARO,"FARO Technologies, Inc.",32,534138080,1997,Capital Goods,Industrial Machinery/Components,4/23/17
